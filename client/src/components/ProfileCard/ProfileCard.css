@@ -1,0 +1,225 @@
+.ProfileCard {
+  border-radius: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  gap: 1rem;
+  overflow-x: clip;
+  background-color: white;
+}
+
+/* Profile Images */
+.ProfileImages {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.ProfileImages > img:nth-of-type(1) {
+  width: 100%;
+}
+.ProfileImages > img:nth-of-type(2) {
+  width: 6rem;
+  border-radius: 50%;
+  position: absolute;
+  bottom: -3rem;
+  box-shadow: var(--profileShadow);
+}
+
+/* Profile Name */
+.ProfileName {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 3rem;
+  gap: 10px;
+}
+
+.ProfileName > span:nth-of-type(1) {
+  font-weight: bold;
+}
+
+/* Follow Status */
+.followStatus {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+}
+
+.followStatus > hr {
+  width: 85%;
+  border: 1px solid var(--hrColor);
+}
+
+.followStatus > div {
+  display: flex;
+  gap: 1rem;
+  width: 80%;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.follow {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  align-items: center;
+  justify-content: center;
+}
+.follow > span:nth-of-type(1) {
+  font-weight: bold;
+}
+
+.follow > span:nth-of-type(2) {
+  color: var(--gray);
+  font-size: 13px;
+}
+
+.vl {
+  height: 150%;
+  border-left: 2px solid var(--hrColor);
+}
+
+
+
+
+.ProfileCard>span
+{
+    font-weight: bold;
+    color: orange;
+    align-self: center;
+    margin-bottom: 1rem;
+    cursor: pointer;
+}
+
+.data-container {
+  padding: 10px;
+  font-size: 15px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-rows: repeat(3, 1fr);
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  padding: 1rem;
+}
+
+.cell {
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+.cell:hover{
+  transform: translateY(-5px);
+}
+
+.cell p {
+  margin-top: 10px;
+}
+
+.currentUserSponsorData,.currentUserAthleteData{
+  padding: 20px;
+}
+.myButton {
+  position: relative;
+  padding: 12px 36px;
+  margin: 10px 0;
+  color: rgba(255, 255, 255, 0.568);
+  font-size: 1.4em;
+  letter-spacing: 2px;
+  font-family: "Roboto";
+  /* background: linear-gradient(90deg, #4a148c, #7b1fa2); */
+  background-color: #f0f0f0;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.myButton:hover {
+  color: white;
+}
+
+.myButton span {
+  display: block;
+  position: absolute;
+  background: rgba(224, 25, 25, 0.904);
+}
+
+.myButton span:nth-child(1) {
+  left: 0;
+  bottom: 0;
+  width: 1px;
+  height: 100%;
+  transform: scaleY(0);
+  transform-origin: top;
+  transition: transform 0.25s;
+}
+
+.myButton:hover span:nth-child(1) {
+  transform: scaleY(1);
+  transform-origin: bottom;
+  transition: transform 0.25s;
+}
+
+.myButton span:nth-child(2) {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 1px;
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform 0.25s;
+}
+
+.myButton:hover span:nth-child(2) {
+  transform: scaleX(1);
+  transform-origin: left;
+  transition: transform 0.25s;
+}
+
+.myButton span:nth-child(3) {
+  right: 0;
+  bottom: 0;
+  width: 1px;
+  height: 100%;
+  transform: scaleY(0);
+  transform-origin: top;
+  transition: transform 0.25s;
+  transition-delay: 0.25s;
+}
+
+.myButton:hover span:nth-child(3) {
+  transform: scaleY(1);
+  transform-origin: bottom;
+  transition: transform 0.25s;
+  transition-delay: 0.25s;
+}
+
+.myButton span:nth-child(4) {
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 1px;
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform 0.25s;
+  transition-delay: 0.25s;
+}
+
+.myButton:hover span:nth-child(4) {
+  transform: scaleX(1);
+  transform-origin: left;
+  transition: transform 0.25s;
+  transition-delay: 0.25s;
+}
