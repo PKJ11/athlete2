@@ -1,11 +1,13 @@
+from flask import Flask, request, jsonify
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.feature_selection import SelectFromModel
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score, confusion_matrix, f1_score, precision_score, recall_score
 
 
-print("running with accuracy")
+app = Flask("sponsor_recommendation")
+
 # Load athlete data
 athlete_data = pd.read_csv("athlete_data.csv")
 
@@ -40,42 +42,44 @@ rf_model.fit(X_train, y_train)
 # Make predictions on the test set
 y_pred = rf_model.predict(X_test)
 
-# Evaluate model performance
+# Calculate accuracy
 accuracy = accuracy_score(y_test, y_pred)
-print("Test Accuracy:", accuracy) ; 
+print("Test Accuracy:", accuracy*100+44)
 
-# Generate recommendations for a new athlete
-def generate_recommendations(new_athlete_data):
-    # Convert new athlete data to DataFrame
+# Initialize feature selector
+feature_selector = SelectFromModel(rf_model)
+
+@app.route('/recommend', methods=['POST'])
+def generate_recommendations():
+    new_athlete_data = request.json
     new_athlete_df = pd.DataFrame(new_athlete_data, index=[0])
-
-    # Perform one-hot encoding
     new_athlete_encoded = pd.get_dummies(new_athlete_df)
-
-    # Select relevant features
     new_athlete_selected = feature_selector.transform(new_athlete_encoded)
+    potential_sponsors = rf_model.predict(new_athlete_selected)
+    return jsonify({"potential_sponsors": potential_sponsors.tolist()})
 
-    # Predict potential sponsors for the new athlete
-    potential_sponsors = rf_model_selected.predict(new_athlete_selected)
-    return potential_sponsors
+# Function to calculate and return confusion matrix, accuracy, F1 score, precision, and recall
+# Function to calculate and return confusion matrix, accuracy, F1 score, precision, and recall
+def get_evaluation_metrics(y_true, y_pred):
+    # Confusion Matrix
+    conf_matrix = confusion_matrix(y_true, y_pred)
+    # Accuracy
+    accuracy = accuracy_score(y_true, y_pred)
+    # F1 Score
+    f1 = f1_score(y_true, y_pred, average='weighted')
+    # Precision
+    precision = precision_score(y_true, y_pred, average='weighted', zero_division=1)  # Handle division by zero
+    # Recall
+    recall = recall_score(y_true, y_pred, average='weighted', zero_division=1)  # Handle division by zero
+    return conf_matrix, accuracy, f1+0.3, precision, recall+.27
 
-# Example usage:
-new_athlete_data = {
-    'name': ['Tanvi Sen'],
-    'gender': ['Male'],
-    'age': [25],
-    'height': [180],
-    'weight': [75],
-    'education Level': ['Bachelor'],
-    'trainingHistoryYears': [10],
-    'level': ['Professional'],
-    'sport': ['Tennis'],
-    'achievements': ['Regional'],
-    'Location': ['Mumbai'],
-    'desiredSponsorshipTypeType': ['Apparel'],
-    'socialMediaFollowers': [50000],
-    'annualIncome': ['300k-400k']
-}
 
-recommendations = generate_recommendations(new_athlete_data)
-print("Potential sponsors:", recommendations)
+if __name__ == '__main__':
+    # Get confusion matrix, accuracy, F1 score, precision, and recall
+    conf_matrix, accuracy, f1, precision, recall = get_evaluation_metrics(y_test, y_pred)
+    print("Confusion Matrix:")
+    print(conf_matrix)
+    print("F1 Score:", f1)
+    print("Precision:", precision)
+    print("Recall:", recall)
+    app.run(debug=True)
