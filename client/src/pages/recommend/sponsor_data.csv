@@ -1,0 +1,1001 @@
+Company Name,Industry,Budget Range,Location,Target Audience,Marketing Goals,Commitment Level Years,sport
+UniqueCompany_0,Food & Beverage,"Over 100,000",Ahmedabad,Seniors,Sales Increase,4.85,Basketball
+UniqueCompany_1,Fashion,"20,000-100,000",Visakhapatnam,Seniors,Market Expansion,0.76,Tennis
+UniqueCompany_2,Technology,"20,000-100,000",Ghaziabad,Teens,Sales Increase,4.09,Wrestling
+UniqueCompany_3,Fashion,"1,000-5,000",Ludhiana,Seniors,Brand Awareness,4.09,Soccer
+UniqueCompany_4,Healthcare,"20,000-100,000",Varanasi,Adults,Market Expansion,1,Basketball
+UniqueCompany_5,Fashion,"20,000-100,000",Nagpur,Teens,Market Expansion,2.6,Soccer
+UniqueCompany_6,Technology,"20,000-100,000",Kanpur,Teens,Market Expansion,3.89,Wrestling
+UniqueCompany_7,Fashion,"1,000-5,000",Nashik,Young Adults,Brand Awareness,4.25,Wrestling
+UniqueCompany_8,Finance,"1,000-5,000",Faridabad,Young Adults,Sales Increase,3.81,Wrestling
+UniqueCompany_9,Technology,"1,000-5,000",Aurangabad,Teens,Brand Awareness,3.4,Cricket
+UniqueCompany_10,Sports,"1,000-5,000",Chennai,Teens,Sales Increase,3.99,Athletics
+UniqueCompany_11,Healthcare,"1,000-5,000",Patna,Seniors,Sales Increase,0.87,Tennis
+UniqueCompany_12,Food & Beverage,"Over 100,000",Hyderabad,Teens,Brand Awareness,2.73,Soccer
+UniqueCompany_13,Healthcare,"1,000-5,000",Jaipur,Seniors,Brand Awareness,2.92,Football
+UniqueCompany_14,Finance,"1,000-5,000",Rajkot,Teens,Brand Awareness,0.75,Swimming
+UniqueCompany_15,Healthcare,"Over 100,000",Mumbai,Teens,Sales Increase,4.88,Tennis
+UniqueCompany_16,Healthcare,"20,000-100,000",Ludhiana,Teens,Sales Increase,1.16,Swimming
+UniqueCompany_17,Finance,"20,000-100,000",Varanasi,Young Adults,Sales Increase,2.11,Wrestling
+UniqueCompany_18,Finance,"20,000-100,000",Meerut,Adults,Brand Awareness,1.88,Athletics
+UniqueCompany_19,Technology,"5,000-20,000",Delhi,Young Adults,Market Expansion,2.25,Wrestling
+UniqueCompany_20,Sports,"Over 100,000",Varanasi,Adults,Market Expansion,2.68,Swimming
+UniqueCompany_21,Sports,"Over 100,000",Ludhiana,Teens,Brand Awareness,2.7,Athletics
+UniqueCompany_22,Technology,"Over 100,000",Hyderabad,Young Adults,Brand Awareness,2.01,Soccer
+UniqueCompany_23,Food & Beverage,"20,000-100,000",Faridabad,Adults,Brand Awareness,2.28,Soccer
+UniqueCompany_24,Healthcare,"5,000-20,000",Jaipur,Teens,Market Expansion,4.06,Football
+UniqueCompany_25,Fashion,"1,000-5,000",Surat,Adults,Market Expansion,4.15,Basketball
+UniqueCompany_26,Fashion,"1,000-5,000",Dhanbad,Adults,Brand Awareness,4.73,Football
+UniqueCompany_27,Food & Beverage,"1,000-5,000",Meerut,Adults,Market Expansion,2.34,Athletics
+UniqueCompany_28,Healthcare,"Over 100,000",Thane,Seniors,Brand Awareness,0.73,Swimming
+UniqueCompany_29,Finance,"Over 100,000",Amritsar,Seniors,Market Expansion,1.66,Wrestling
+UniqueCompany_30,Food & Beverage,"1,000-5,000",Nagpur,Teens,Sales Increase,4.1,Basketball
+UniqueCompany_31,Food & Beverage,"20,000-100,000",Ahmedabad,Seniors,Sales Increase,0.87,Tennis
+UniqueCompany_32,Finance,"Over 100,000",Ludhiana,Teens,Sales Increase,2.71,Basketball
+UniqueCompany_33,Healthcare,"Over 100,000",Surat,Young Adults,Sales Increase,3.03,Basketball
+UniqueCompany_34,Finance,"5,000-20,000",Surat,Young Adults,Market Expansion,2.35,Tennis
+UniqueCompany_35,Sports,"1,000-5,000",Lucknow,Teens,Sales Increase,2.86,Football
+UniqueCompany_36,Food & Beverage,"20,000-100,000",Pune,Adults,Brand Awareness,1.48,Soccer
+UniqueCompany_37,Healthcare,"5,000-20,000",Bhopal,Adults,Brand Awareness,1.1,Swimming
+UniqueCompany_38,Technology,"1,000-5,000",Faridabad,Young Adults,Brand Awareness,2.41,Tennis
+UniqueCompany_39,Food & Beverage,"Over 100,000",Aurangabad,Seniors,Brand Awareness,2.97,Football
+UniqueCompany_40,Technology,"1,000-5,000",Lucknow,Adults,Brand Awareness,4.71,F1-Racing
+UniqueCompany_41,Technology,"1,000-5,000",Kolkata,Adults,Brand Awareness,3.93,Cricket
+UniqueCompany_42,Healthcare,"20,000-100,000",Dhanbad,Adults,Market Expansion,0.77,Basketball
+UniqueCompany_43,Fashion,"Over 100,000",Nashik,Seniors,Market Expansion,2.97,F1-Racing
+UniqueCompany_44,Technology,"Over 100,000",Aurangabad,Young Adults,Brand Awareness,2.67,F1-Racing
+UniqueCompany_45,Technology,"5,000-20,000",Nagpur,Teens,Brand Awareness,3.11,Basketball
+UniqueCompany_46,Fashion,"20,000-100,000",Mumbai,Adults,Market Expansion,1.12,Athletics
+UniqueCompany_47,Technology,"Over 100,000",Patna,Seniors,Brand Awareness,3.23,Athletics
+UniqueCompany_48,Technology,"1,000-5,000",Allahabad,Seniors,Sales Increase,1.39,Soccer
+UniqueCompany_49,Healthcare,"5,000-20,000",Patna,Teens,Brand Awareness,0.59,Swimming
+UniqueCompany_50,Finance,"1,000-5,000",Ahmedabad,Adults,Brand Awareness,2.99,Cricket
+UniqueCompany_51,Food & Beverage,"20,000-100,000",Agra,Young Adults,Market Expansion,2.97,Tennis
+UniqueCompany_52,Technology,"1,000-5,000",Faridabad,Young Adults,Market Expansion,3.37,Cricket
+UniqueCompany_53,Fashion,"20,000-100,000",Dhanbad,Teens,Market Expansion,4.76,Athletics
+UniqueCompany_54,Food & Beverage,"20,000-100,000",Indore,Adults,Sales Increase,3.01,Wrestling
+UniqueCompany_55,Technology,"20,000-100,000",Ahmedabad,Young Adults,Sales Increase,3.23,Athletics
+UniqueCompany_56,Sports,"1,000-5,000",Meerut,Seniors,Market Expansion,2.77,Basketball
+UniqueCompany_57,Healthcare,"1,000-5,000",Nashik,Teens,Sales Increase,3.45,Athletics
+UniqueCompany_58,Fashion,"1,000-5,000",Nagpur,Teens,Market Expansion,0.63,Tennis
+UniqueCompany_59,Food & Beverage,"20,000-100,000",Hyderabad,Teens,Brand Awareness,0.76,Cricket
+UniqueCompany_60,Fashion,"20,000-100,000",Bhopal,Adults,Brand Awareness,3.98,Tennis
+UniqueCompany_61,Fashion,"Over 100,000",Chennai,Young Adults,Brand Awareness,1.46,Tennis
+UniqueCompany_62,Sports,"5,000-20,000",Aurangabad,Teens,Sales Increase,2.75,Cricket
+UniqueCompany_63,Sports,"Over 100,000",Ahmedabad,Young Adults,Market Expansion,1.71,Wrestling
+UniqueCompany_64,Sports,"5,000-20,000",Aurangabad,Teens,Brand Awareness,1.22,F1-Racing
+UniqueCompany_65,Finance,"20,000-100,000",Mumbai,Teens,Brand Awareness,2.25,F1-Racing
+UniqueCompany_66,Finance,"20,000-100,000",Faridabad,Seniors,Market Expansion,1.05,Basketball
+UniqueCompany_67,Healthcare,"Over 100,000",Srinagar,Teens,Brand Awareness,2.14,F1-Racing
+UniqueCompany_68,Food & Beverage,"5,000-20,000",Nagpur,Teens,Market Expansion,2.91,Cricket
+UniqueCompany_69,Food & Beverage,"5,000-20,000",Aurangabad,Young Adults,Market Expansion,3.07,Soccer
+UniqueCompany_70,Sports,"5,000-20,000",Chennai,Young Adults,Brand Awareness,1.39,Cricket
+UniqueCompany_71,Technology,"1,000-5,000",Jaipur,Adults,Market Expansion,4.14,Cricket
+UniqueCompany_72,Technology,"Over 100,000",Chennai,Teens,Sales Increase,2.85,F1-Racing
+UniqueCompany_73,Finance,"1,000-5,000",Ahmedabad,Seniors,Brand Awareness,0.97,Athletics
+UniqueCompany_74,Sports,"5,000-20,000",Allahabad,Young Adults,Sales Increase,2.44,Cricket
+UniqueCompany_75,Sports,"5,000-20,000",Indore,Young Adults,Brand Awareness,2.51,Cricket
+UniqueCompany_76,Finance,"1,000-5,000",Dhanbad,Teens,Brand Awareness,1.2,Wrestling
+UniqueCompany_77,Sports,"5,000-20,000",Nashik,Adults,Brand Awareness,3.94,Basketball
+UniqueCompany_78,Fashion,"5,000-20,000",Mumbai,Teens,Brand Awareness,4.77,Soccer
+UniqueCompany_79,Healthcare,"5,000-20,000",Bhopal,Teens,Market Expansion,1.7,Tennis
+UniqueCompany_80,Healthcare,"Over 100,000",Faridabad,Seniors,Sales Increase,2.15,Swimming
+UniqueCompany_81,Technology,"Over 100,000",Rajkot,Adults,Market Expansion,3.76,Tennis
+UniqueCompany_82,Fashion,"5,000-20,000",Rajkot,Young Adults,Brand Awareness,3.47,F1-Racing
+UniqueCompany_83,Finance,"Over 100,000",Nashik,Young Adults,Brand Awareness,2.45,Soccer
+UniqueCompany_84,Fashion,"1,000-5,000",Agra,Young Adults,Market Expansion,3.69,Swimming
+UniqueCompany_85,Food & Beverage,"20,000-100,000",Patna,Teens,Market Expansion,2.19,Cricket
+UniqueCompany_86,Finance,"1,000-5,000",Thane,Teens,Brand Awareness,0.91,Wrestling
+UniqueCompany_87,Healthcare,"1,000-5,000",Hyderabad,Teens,Sales Increase,3.81,Swimming
+UniqueCompany_88,Finance,"20,000-100,000",Bhopal,Seniors,Sales Increase,3.42,Wrestling
+UniqueCompany_89,Food & Beverage,"5,000-20,000",Rajkot,Teens,Brand Awareness,4.27,Wrestling
+UniqueCompany_90,Technology,"1,000-5,000",Jaipur,Teens,Sales Increase,2.3,Soccer
+UniqueCompany_91,Finance,"20,000-100,000",Vadodara,Young Adults,Brand Awareness,2.29,Soccer
+UniqueCompany_92,Food & Beverage,"5,000-20,000",Nagpur,Young Adults,Brand Awareness,3.57,Athletics
+UniqueCompany_93,Fashion,"Over 100,000",Agra,Young Adults,Sales Increase,3.02,Athletics
+UniqueCompany_94,Healthcare,"1,000-5,000",Nashik,Young Adults,Sales Increase,1.7,Wrestling
+UniqueCompany_95,Fashion,"1,000-5,000",Meerut,Young Adults,Sales Increase,3.15,F1-Racing
+UniqueCompany_96,Fashion,"20,000-100,000",Bhopal,Teens,Brand Awareness,2.47,Soccer
+UniqueCompany_97,Fashion,"Over 100,000",Visakhapatnam,Adults,Sales Increase,0.58,F1-Racing
+UniqueCompany_98,Finance,"Over 100,000",Nagpur,Seniors,Sales Increase,3.01,Tennis
+UniqueCompany_99,Healthcare,"5,000-20,000",Pune,Adults,Brand Awareness,3.37,Soccer
+UniqueCompany_100,Food & Beverage,"1,000-5,000",Srinagar,Young Adults,Sales Increase,1,Soccer
+UniqueCompany_101,Healthcare,"5,000-20,000",Bangalore,Teens,Market Expansion,0.73,Wrestling
+UniqueCompany_102,Finance,"20,000-100,000",Bangalore,Seniors,Sales Increase,3.66,Cricket
+UniqueCompany_103,Healthcare,"Over 100,000",Vadodara,Young Adults,Market Expansion,0.94,Swimming
+UniqueCompany_104,Healthcare,"5,000-20,000",Srinagar,Seniors,Brand Awareness,2.66,Tennis
+UniqueCompany_105,Technology,"5,000-20,000",Faridabad,Seniors,Market Expansion,4.95,F1-Racing
+UniqueCompany_106,Sports,"Over 100,000",Amritsar,Young Adults,Sales Increase,0.58,Soccer
+UniqueCompany_107,Food & Beverage,"5,000-20,000",Meerut,Adults,Brand Awareness,3.67,F1-Racing
+UniqueCompany_108,Finance,"Over 100,000",Jaipur,Adults,Sales Increase,2.86,Football
+UniqueCompany_109,Sports,"20,000-100,000",Indore,Young Adults,Market Expansion,4.86,Football
+UniqueCompany_110,Healthcare,"5,000-20,000",Agra,Seniors,Brand Awareness,4.18,F1-Racing
+UniqueCompany_111,Healthcare,"5,000-20,000",Patna,Teens,Sales Increase,4.51,Tennis
+UniqueCompany_112,Technology,"5,000-20,000",Bhopal,Adults,Sales Increase,4.24,Cricket
+UniqueCompany_113,Technology,"20,000-100,000",Faridabad,Teens,Market Expansion,2.4,Tennis
+UniqueCompany_114,Technology,"1,000-5,000",Kolkata,Young Adults,Brand Awareness,1.73,Tennis
+UniqueCompany_115,Finance,"Over 100,000",Aurangabad,Adults,Sales Increase,4.69,Soccer
+UniqueCompany_116,Sports,"1,000-5,000",Hyderabad,Young Adults,Market Expansion,2.63,Football
+UniqueCompany_117,Finance,"20,000-100,000",Ludhiana,Teens,Brand Awareness,4.51,Basketball
+UniqueCompany_118,Technology,"20,000-100,000",Srinagar,Adults,Market Expansion,2.12,Tennis
+UniqueCompany_119,Fashion,"1,000-5,000",Visakhapatnam,Seniors,Brand Awareness,0.91,Cricket
+UniqueCompany_120,Finance,"20,000-100,000",Kolkata,Teens,Sales Increase,1.98,Soccer
+UniqueCompany_121,Healthcare,"20,000-100,000",Ludhiana,Teens,Sales Increase,2.4,Football
+UniqueCompany_122,Food & Beverage,"5,000-20,000",Kolkata,Young Adults,Market Expansion,1.46,F1-Racing
+UniqueCompany_123,Sports,"1,000-5,000",Bhopal,Seniors,Market Expansion,4.08,Basketball
+UniqueCompany_124,Technology,"Over 100,000",Agra,Seniors,Brand Awareness,0.52,Soccer
+UniqueCompany_125,Sports,"20,000-100,000",Aurangabad,Adults,Market Expansion,2.72,Swimming
+UniqueCompany_126,Healthcare,"1,000-5,000",Chennai,Young Adults,Sales Increase,3.57,Basketball
+UniqueCompany_127,Finance,"1,000-5,000",Aurangabad,Seniors,Brand Awareness,4,Cricket
+UniqueCompany_128,Food & Beverage,"1,000-5,000",Ludhiana,Adults,Market Expansion,2.8,F1-Racing
+UniqueCompany_129,Finance,"20,000-100,000",Pune,Teens,Brand Awareness,1.51,Basketball
+UniqueCompany_130,Food & Beverage,"20,000-100,000",Varanasi,Young Adults,Brand Awareness,2.79,Cricket
+UniqueCompany_131,Healthcare,"20,000-100,000",Lucknow,Seniors,Sales Increase,3.55,Cricket
+UniqueCompany_132,Finance,"5,000-20,000",Amritsar,Teens,Sales Increase,3.82,Basketball
+UniqueCompany_133,Healthcare,"1,000-5,000",Mumbai,Adults,Brand Awareness,4.77,Tennis
+UniqueCompany_134,Finance,"Over 100,000",Mumbai,Young Adults,Brand Awareness,2.98,Basketball
+UniqueCompany_135,Fashion,"20,000-100,000",Delhi,Adults,Sales Increase,1.58,Basketball
+UniqueCompany_136,Technology,"20,000-100,000",Visakhapatnam,Adults,Sales Increase,2.07,Football
+UniqueCompany_137,Fashion,"Over 100,000",Thane,Seniors,Market Expansion,3.74,Cricket
+UniqueCompany_138,Fashion,"20,000-100,000",Bhopal,Adults,Market Expansion,1.94,Tennis
+UniqueCompany_139,Sports,"1,000-5,000",Surat,Adults,Brand Awareness,0.94,Football
+UniqueCompany_140,Food & Beverage,"1,000-5,000",Bhopal,Teens,Sales Increase,2.16,Athletics
+UniqueCompany_141,Finance,"20,000-100,000",Ghaziabad,Young Adults,Brand Awareness,1.86,Swimming
+UniqueCompany_142,Finance,"Over 100,000",Visakhapatnam,Young Adults,Brand Awareness,2.34,Cricket
+UniqueCompany_143,Food & Beverage,"Over 100,000",Dhanbad,Teens,Sales Increase,2.87,Athletics
+UniqueCompany_144,Food & Beverage,"20,000-100,000",Allahabad,Seniors,Sales Increase,1.23,Wrestling
+UniqueCompany_145,Sports,"1,000-5,000",Agra,Adults,Market Expansion,2.01,Soccer
+UniqueCompany_146,Fashion,"Over 100,000",Kolkata,Seniors,Market Expansion,2.9,Soccer
+UniqueCompany_147,Food & Beverage,"5,000-20,000",Bhopal,Teens,Sales Increase,4.25,Football
+UniqueCompany_148,Finance,"Over 100,000",Srinagar,Teens,Sales Increase,3.05,Soccer
+UniqueCompany_149,Finance,"1,000-5,000",Kanpur,Young Adults,Market Expansion,0.92,Athletics
+UniqueCompany_150,Fashion,"Over 100,000",Nashik,Adults,Sales Increase,4.64,Tennis
+UniqueCompany_151,Food & Beverage,"Over 100,000",Vadodara,Adults,Market Expansion,1.73,F1-Racing
+UniqueCompany_152,Technology,"5,000-20,000",Bangalore,Adults,Brand Awareness,2.98,Basketball
+UniqueCompany_153,Sports,"1,000-5,000",Ludhiana,Adults,Sales Increase,3.15,Wrestling
+UniqueCompany_154,Sports,"1,000-5,000",Delhi,Seniors,Sales Increase,4.82,Athletics
+UniqueCompany_155,Technology,"5,000-20,000",Dhanbad,Adults,Brand Awareness,4.14,Swimming
+UniqueCompany_156,Healthcare,"5,000-20,000",Ghaziabad,Adults,Market Expansion,3.14,Tennis
+UniqueCompany_157,Healthcare,"5,000-20,000",Thane,Teens,Market Expansion,2.52,Basketball
+UniqueCompany_158,Finance,"1,000-5,000",Rajkot,Young Adults,Sales Increase,4.84,Basketball
+UniqueCompany_159,Finance,"Over 100,000",Chennai,Seniors,Market Expansion,4.33,Football
+UniqueCompany_160,Healthcare,"5,000-20,000",Lucknow,Young Adults,Sales Increase,4.88,Cricket
+UniqueCompany_161,Fashion,"1,000-5,000",Pune,Young Adults,Sales Increase,0.89,Swimming
+UniqueCompany_162,Healthcare,"5,000-20,000",Meerut,Teens,Brand Awareness,0.85,F1-Racing
+UniqueCompany_163,Finance,"5,000-20,000",Lucknow,Teens,Brand Awareness,1.35,Swimming
+UniqueCompany_164,Fashion,"Over 100,000",Ahmedabad,Young Adults,Brand Awareness,1.1,F1-Racing
+UniqueCompany_165,Sports,"1,000-5,000",Nagpur,Young Adults,Market Expansion,2.44,Swimming
+UniqueCompany_166,Food & Beverage,"Over 100,000",Srinagar,Seniors,Sales Increase,1.5,Swimming
+UniqueCompany_167,Sports,"20,000-100,000",Surat,Young Adults,Brand Awareness,4.6,Soccer
+UniqueCompany_168,Fashion,"20,000-100,000",Ghaziabad,Teens,Sales Increase,0.9,Cricket
+UniqueCompany_169,Healthcare,"20,000-100,000",Pune,Young Adults,Brand Awareness,3.36,Soccer
+UniqueCompany_170,Fashion,"20,000-100,000",Amritsar,Seniors,Market Expansion,1.58,Soccer
+UniqueCompany_171,Sports,"1,000-5,000",Faridabad,Seniors,Brand Awareness,1.72,Soccer
+UniqueCompany_172,Technology,"20,000-100,000",Amritsar,Teens,Sales Increase,2.34,Swimming
+UniqueCompany_173,Finance,"Over 100,000",Allahabad,Teens,Sales Increase,1.16,Cricket
+UniqueCompany_174,Fashion,"Over 100,000",Lucknow,Young Adults,Market Expansion,3.64,Wrestling
+UniqueCompany_175,Technology,"5,000-20,000",Meerut,Teens,Brand Awareness,2.01,F1-Racing
+UniqueCompany_176,Healthcare,"5,000-20,000",Ghaziabad,Seniors,Brand Awareness,3.81,Basketball
+UniqueCompany_177,Sports,"1,000-5,000",Rajkot,Young Adults,Market Expansion,4.3,Tennis
+UniqueCompany_178,Finance,"5,000-20,000",Bangalore,Teens,Brand Awareness,3.21,Soccer
+UniqueCompany_179,Healthcare,"5,000-20,000",Vadodara,Teens,Brand Awareness,1.32,Swimming
+UniqueCompany_180,Fashion,"Over 100,000",Allahabad,Teens,Sales Increase,2.8,Basketball
+UniqueCompany_181,Food & Beverage,"5,000-20,000",Allahabad,Teens,Market Expansion,2.8,Soccer
+UniqueCompany_182,Fashion,"Over 100,000",Hyderabad,Adults,Market Expansion,3.24,Athletics
+UniqueCompany_183,Healthcare,"5,000-20,000",Ahmedabad,Teens,Sales Increase,2.69,Wrestling
+UniqueCompany_184,Healthcare,"Over 100,000",Pune,Young Adults,Sales Increase,0.75,Tennis
+UniqueCompany_185,Technology,"Over 100,000",Visakhapatnam,Seniors,Market Expansion,1.18,Basketball
+UniqueCompany_186,Fashion,"Over 100,000",Amritsar,Young Adults,Brand Awareness,4.08,Soccer
+UniqueCompany_187,Food & Beverage,"5,000-20,000",Thane,Young Adults,Market Expansion,2.33,Basketball
+UniqueCompany_188,Finance,"1,000-5,000",Amritsar,Seniors,Sales Increase,3.72,Cricket
+UniqueCompany_189,Technology,"20,000-100,000",Chennai,Adults,Sales Increase,4.54,Cricket
+UniqueCompany_190,Finance,"1,000-5,000",Ghaziabad,Adults,Sales Increase,4.52,Soccer
+UniqueCompany_191,Healthcare,"1,000-5,000",Kanpur,Teens,Market Expansion,1.48,F1-Racing
+UniqueCompany_192,Food & Beverage,"1,000-5,000",Chennai,Seniors,Sales Increase,4.69,Football
+UniqueCompany_193,Fashion,"1,000-5,000",Visakhapatnam,Adults,Market Expansion,2.36,Soccer
+UniqueCompany_194,Healthcare,"Over 100,000",Vadodara,Teens,Market Expansion,1.11,F1-Racing
+UniqueCompany_195,Technology,"20,000-100,000",Kolkata,Seniors,Sales Increase,1.89,Soccer
+UniqueCompany_196,Sports,"Over 100,000",Faridabad,Adults,Brand Awareness,3.51,Wrestling
+UniqueCompany_197,Finance,"5,000-20,000",Kolkata,Teens,Brand Awareness,2.99,Tennis
+UniqueCompany_198,Technology,"Over 100,000",Rajkot,Adults,Brand Awareness,2.63,Football
+UniqueCompany_199,Healthcare,"1,000-5,000",Chennai,Young Adults,Brand Awareness,2.1,Football
+UniqueCompany_200,Fashion,"Over 100,000",Indore,Adults,Sales Increase,1.91,Basketball
+UniqueCompany_201,Healthcare,"1,000-5,000",Bhopal,Seniors,Brand Awareness,1.17,Wrestling
+UniqueCompany_202,Finance,"5,000-20,000",Rajkot,Adults,Brand Awareness,2.41,Cricket
+UniqueCompany_203,Finance,"20,000-100,000",Amritsar,Young Adults,Brand Awareness,4.95,Wrestling
+UniqueCompany_204,Finance,"1,000-5,000",Bangalore,Teens,Sales Increase,1.79,Swimming
+UniqueCompany_205,Sports,"1,000-5,000",Rajkot,Adults,Sales Increase,3.23,Athletics
+UniqueCompany_206,Technology,"5,000-20,000",Dhanbad,Seniors,Brand Awareness,0.79,Wrestling
+UniqueCompany_207,Food & Beverage,"20,000-100,000",Varanasi,Teens,Sales Increase,2.95,Swimming
+UniqueCompany_208,Food & Beverage,"20,000-100,000",Ahmedabad,Teens,Sales Increase,3.92,Swimming
+UniqueCompany_209,Sports,"5,000-20,000",Lucknow,Young Adults,Brand Awareness,4.32,F1-Racing
+UniqueCompany_210,Technology,"Over 100,000",Ahmedabad,Adults,Market Expansion,1.68,Soccer
+UniqueCompany_211,Sports,"Over 100,000",Nashik,Young Adults,Market Expansion,1.08,Cricket
+UniqueCompany_212,Healthcare,"20,000-100,000",Allahabad,Young Adults,Sales Increase,3.23,Athletics
+UniqueCompany_213,Sports,"1,000-5,000",Nagpur,Young Adults,Brand Awareness,4.9,Wrestling
+UniqueCompany_214,Fashion,"1,000-5,000",Rajkot,Teens,Brand Awareness,4.92,Athletics
+UniqueCompany_215,Finance,"20,000-100,000",Indore,Young Adults,Brand Awareness,2.5,Wrestling
+UniqueCompany_216,Finance,"20,000-100,000",Aurangabad,Seniors,Sales Increase,4.68,Tennis
+UniqueCompany_217,Fashion,"Over 100,000",Visakhapatnam,Adults,Sales Increase,0.57,Tennis
+UniqueCompany_218,Fashion,"1,000-5,000",Meerut,Teens,Market Expansion,1.07,Tennis
+UniqueCompany_219,Finance,"5,000-20,000",Delhi,Adults,Market Expansion,1.98,Swimming
+UniqueCompany_220,Food & Beverage,"Over 100,000",Amritsar,Teens,Sales Increase,1.14,Tennis
+UniqueCompany_221,Fashion,"5,000-20,000",Hyderabad,Teens,Sales Increase,1.62,Tennis
+UniqueCompany_222,Technology,"1,000-5,000",Ahmedabad,Adults,Sales Increase,2.54,Tennis
+UniqueCompany_223,Finance,"Over 100,000",Visakhapatnam,Seniors,Brand Awareness,1.44,Soccer
+UniqueCompany_224,Sports,"20,000-100,000",Bhopal,Young Adults,Brand Awareness,4,Football
+UniqueCompany_225,Sports,"5,000-20,000",Vadodara,Seniors,Market Expansion,3.16,Swimming
+UniqueCompany_226,Sports,"Over 100,000",Vadodara,Adults,Sales Increase,1.05,Wrestling
+UniqueCompany_227,Food & Beverage,"5,000-20,000",Surat,Teens,Sales Increase,2.13,Football
+UniqueCompany_228,Finance,"5,000-20,000",Bangalore,Young Adults,Brand Awareness,3.89,Soccer
+UniqueCompany_229,Finance,"5,000-20,000",Bhopal,Young Adults,Sales Increase,2.7,Football
+UniqueCompany_230,Finance,"Over 100,000",Vadodara,Adults,Brand Awareness,4.96,Cricket
+UniqueCompany_231,Sports,"Over 100,000",Ghaziabad,Young Adults,Brand Awareness,2.96,Football
+UniqueCompany_232,Fashion,"1,000-5,000",Ghaziabad,Teens,Market Expansion,2.49,F1-Racing
+UniqueCompany_233,Sports,"Over 100,000",Rajkot,Young Adults,Brand Awareness,3.04,Tennis
+UniqueCompany_234,Finance,"Over 100,000",Chennai,Seniors,Brand Awareness,3.36,Cricket
+UniqueCompany_235,Technology,"5,000-20,000",Ghaziabad,Young Adults,Brand Awareness,2.21,Soccer
+UniqueCompany_236,Technology,"5,000-20,000",Chennai,Adults,Sales Increase,2.2,Athletics
+UniqueCompany_237,Fashion,"5,000-20,000",Hyderabad,Adults,Brand Awareness,4.92,Wrestling
+UniqueCompany_238,Technology,"20,000-100,000",Mumbai,Seniors,Market Expansion,0.67,Cricket
+UniqueCompany_239,Finance,"Over 100,000",Vadodara,Adults,Market Expansion,2.66,F1-Racing
+UniqueCompany_240,Food & Beverage,"20,000-100,000",Srinagar,Young Adults,Market Expansion,3.56,F1-Racing
+UniqueCompany_241,Food & Beverage,"1,000-5,000",Bhopal,Adults,Market Expansion,2.38,Cricket
+UniqueCompany_242,Finance,"5,000-20,000",Surat,Seniors,Sales Increase,1.91,Wrestling
+UniqueCompany_243,Sports,"1,000-5,000",Nashik,Teens,Sales Increase,3.16,Athletics
+UniqueCompany_244,Technology,"20,000-100,000",Thane,Teens,Market Expansion,2.07,Tennis
+UniqueCompany_245,Finance,"20,000-100,000",Indore,Seniors,Brand Awareness,3.27,Swimming
+UniqueCompany_246,Finance,"5,000-20,000",Aurangabad,Adults,Market Expansion,3.1,Wrestling
+UniqueCompany_247,Technology,"1,000-5,000",Meerut,Seniors,Market Expansion,1.09,Soccer
+UniqueCompany_248,Technology,"1,000-5,000",Bangalore,Seniors,Sales Increase,1.15,Cricket
+UniqueCompany_249,Sports,"Over 100,000",Amritsar,Young Adults,Brand Awareness,2.24,Football
+UniqueCompany_250,Finance,"20,000-100,000",Chennai,Young Adults,Brand Awareness,4.76,Wrestling
+UniqueCompany_251,Food & Beverage,"5,000-20,000",Indore,Teens,Market Expansion,2.57,Cricket
+UniqueCompany_252,Healthcare,"1,000-5,000",Aurangabad,Young Adults,Brand Awareness,4.2,Basketball
+UniqueCompany_253,Technology,"5,000-20,000",Lucknow,Adults,Market Expansion,0.7,Tennis
+UniqueCompany_254,Food & Beverage,"Over 100,000",Indore,Seniors,Sales Increase,1.91,Basketball
+UniqueCompany_255,Food & Beverage,"5,000-20,000",Hyderabad,Young Adults,Market Expansion,1.38,Athletics
+UniqueCompany_256,Technology,"1,000-5,000",Pune,Young Adults,Market Expansion,2.27,Wrestling
+UniqueCompany_257,Food & Beverage,"Over 100,000",Chennai,Young Adults,Market Expansion,1.05,Cricket
+UniqueCompany_258,Technology,"Over 100,000",Aurangabad,Adults,Market Expansion,0.86,Basketball
+UniqueCompany_259,Technology,"1,000-5,000",Indore,Young Adults,Brand Awareness,2.98,Cricket
+UniqueCompany_260,Fashion,"1,000-5,000",Visakhapatnam,Adults,Brand Awareness,1.83,Wrestling
+UniqueCompany_261,Technology,"Over 100,000",Dhanbad,Seniors,Brand Awareness,1.99,Wrestling
+UniqueCompany_262,Food & Beverage,"5,000-20,000",Rajkot,Young Adults,Market Expansion,0.84,Football
+UniqueCompany_263,Healthcare,"5,000-20,000",Bangalore,Teens,Brand Awareness,1.62,Cricket
+UniqueCompany_264,Fashion,"20,000-100,000",Bhopal,Young Adults,Brand Awareness,2.82,Basketball
+UniqueCompany_265,Sports,"20,000-100,000",Aurangabad,Teens,Market Expansion,1.94,F1-Racing
+UniqueCompany_266,Healthcare,"20,000-100,000",Hyderabad,Young Adults,Brand Awareness,1.31,Basketball
+UniqueCompany_267,Technology,"20,000-100,000",Meerut,Teens,Market Expansion,4.43,Soccer
+UniqueCompany_268,Food & Beverage,"1,000-5,000",Kanpur,Young Adults,Sales Increase,1.96,Tennis
+UniqueCompany_269,Healthcare,"Over 100,000",Nagpur,Seniors,Market Expansion,2.09,Soccer
+UniqueCompany_270,Technology,"1,000-5,000",Kolkata,Adults,Sales Increase,0.86,Soccer
+UniqueCompany_271,Finance,"Over 100,000",Jaipur,Young Adults,Market Expansion,4.22,Soccer
+UniqueCompany_272,Healthcare,"5,000-20,000",Amritsar,Adults,Sales Increase,1.49,Swimming
+UniqueCompany_273,Fashion,"5,000-20,000",Srinagar,Teens,Brand Awareness,2.86,Basketball
+UniqueCompany_274,Finance,"Over 100,000",Hyderabad,Young Adults,Brand Awareness,2.43,Basketball
+UniqueCompany_275,Sports,"Over 100,000",Pune,Young Adults,Brand Awareness,1.27,Athletics
+UniqueCompany_276,Fashion,"5,000-20,000",Aurangabad,Teens,Sales Increase,0.88,Football
+UniqueCompany_277,Technology,"5,000-20,000",Ghaziabad,Seniors,Sales Increase,1.19,Football
+UniqueCompany_278,Sports,"20,000-100,000",Jaipur,Young Adults,Sales Increase,2.79,Wrestling
+UniqueCompany_279,Sports,"5,000-20,000",Nagpur,Adults,Brand Awareness,3.99,Cricket
+UniqueCompany_280,Fashion,"Over 100,000",Aurangabad,Adults,Market Expansion,4.31,Wrestling
+UniqueCompany_281,Fashion,"20,000-100,000",Bangalore,Teens,Sales Increase,3.37,Soccer
+UniqueCompany_282,Healthcare,"1,000-5,000",Nashik,Adults,Sales Increase,1.29,Swimming
+UniqueCompany_283,Healthcare,"5,000-20,000",Lucknow,Adults,Sales Increase,1.26,F1-Racing
+UniqueCompany_284,Technology,"20,000-100,000",Srinagar,Adults,Market Expansion,4.35,Swimming
+UniqueCompany_285,Healthcare,"Over 100,000",Kanpur,Teens,Brand Awareness,2.3,Soccer
+UniqueCompany_286,Technology,"5,000-20,000",Vadodara,Young Adults,Sales Increase,4.6,Swimming
+UniqueCompany_287,Food & Beverage,"20,000-100,000",Lucknow,Adults,Brand Awareness,4.55,Soccer
+UniqueCompany_288,Finance,"5,000-20,000",Nashik,Young Adults,Market Expansion,2.74,Football
+UniqueCompany_289,Technology,"20,000-100,000",Indore,Teens,Sales Increase,0.74,Swimming
+UniqueCompany_290,Sports,"5,000-20,000",Ghaziabad,Young Adults,Market Expansion,2.77,Cricket
+UniqueCompany_291,Technology,"5,000-20,000",Kanpur,Young Adults,Brand Awareness,0.58,Wrestling
+UniqueCompany_292,Fashion,"1,000-5,000",Chennai,Teens,Market Expansion,0.56,Cricket
+UniqueCompany_293,Finance,"1,000-5,000",Surat,Teens,Brand Awareness,2.29,Wrestling
+UniqueCompany_294,Sports,"Over 100,000",Thane,Adults,Brand Awareness,2.68,Swimming
+UniqueCompany_295,Healthcare,"5,000-20,000",Mumbai,Young Adults,Sales Increase,1.94,Tennis
+UniqueCompany_296,Sports,"Over 100,000",Kolkata,Teens,Sales Increase,2.24,Football
+UniqueCompany_297,Sports,"1,000-5,000",Pune,Young Adults,Brand Awareness,3.39,Football
+UniqueCompany_298,Food & Beverage,"5,000-20,000",Ahmedabad,Adults,Sales Increase,0.55,Football
+UniqueCompany_299,Healthcare,"5,000-20,000",Dhanbad,Young Adults,Market Expansion,0.69,Athletics
+UniqueCompany_300,Technology,"20,000-100,000",Chennai,Young Adults,Market Expansion,0.62,Swimming
+UniqueCompany_301,Food & Beverage,"1,000-5,000",Kolkata,Young Adults,Sales Increase,1.43,Athletics
+UniqueCompany_302,Healthcare,"Over 100,000",Jaipur,Seniors,Brand Awareness,0.69,Tennis
+UniqueCompany_303,Finance,"Over 100,000",Kolkata,Adults,Sales Increase,2.94,F1-Racing
+UniqueCompany_304,Finance,"5,000-20,000",Ludhiana,Young Adults,Sales Increase,3.3,Tennis
+UniqueCompany_305,Sports,"1,000-5,000",Kanpur,Young Adults,Market Expansion,3.75,Tennis
+UniqueCompany_306,Food & Beverage,"1,000-5,000",Agra,Seniors,Sales Increase,1.23,Basketball
+UniqueCompany_307,Finance,"1,000-5,000",Ghaziabad,Adults,Brand Awareness,0.96,Cricket
+UniqueCompany_308,Food & Beverage,"Over 100,000",Bangalore,Young Adults,Market Expansion,1.97,F1-Racing
+UniqueCompany_309,Finance,"20,000-100,000",Faridabad,Young Adults,Brand Awareness,2.12,Tennis
+UniqueCompany_310,Technology,"1,000-5,000",Patna,Adults,Market Expansion,1.75,Tennis
+UniqueCompany_311,Healthcare,"Over 100,000",Thane,Young Adults,Market Expansion,1.9,Football
+UniqueCompany_312,Technology,"1,000-5,000",Allahabad,Young Adults,Market Expansion,1.24,Basketball
+UniqueCompany_313,Technology,"20,000-100,000",Aurangabad,Teens,Sales Increase,1.97,Swimming
+UniqueCompany_314,Food & Beverage,"Over 100,000",Pune,Teens,Brand Awareness,2.11,Football
+UniqueCompany_315,Sports,"1,000-5,000",Faridabad,Adults,Sales Increase,1.67,Athletics
+UniqueCompany_316,Technology,"20,000-100,000",Lucknow,Young Adults,Market Expansion,2.1,Athletics
+UniqueCompany_317,Food & Beverage,"Over 100,000",Varanasi,Teens,Brand Awareness,1.72,F1-Racing
+UniqueCompany_318,Fashion,"1,000-5,000",Jaipur,Adults,Brand Awareness,0.51,Swimming
+UniqueCompany_319,Food & Beverage,"Over 100,000",Ghaziabad,Seniors,Market Expansion,4.32,Wrestling
+UniqueCompany_320,Sports,"5,000-20,000",Nagpur,Young Adults,Market Expansion,3.96,Wrestling
+UniqueCompany_321,Sports,"5,000-20,000",Kanpur,Young Adults,Market Expansion,2.66,Swimming
+UniqueCompany_322,Food & Beverage,"5,000-20,000",Kolkata,Young Adults,Sales Increase,4.28,Basketball
+UniqueCompany_323,Finance,"20,000-100,000",Aurangabad,Seniors,Brand Awareness,2.61,Athletics
+UniqueCompany_324,Healthcare,"20,000-100,000",Nashik,Adults,Brand Awareness,3.46,Basketball
+UniqueCompany_325,Technology,"1,000-5,000",Kolkata,Adults,Market Expansion,1.18,Football
+UniqueCompany_326,Sports,"Over 100,000",Surat,Adults,Market Expansion,2.52,F1-Racing
+UniqueCompany_327,Food & Beverage,"1,000-5,000",Faridabad,Adults,Brand Awareness,4.76,Soccer
+UniqueCompany_328,Sports,"5,000-20,000",Kolkata,Young Adults,Sales Increase,4.52,Soccer
+UniqueCompany_329,Sports,"20,000-100,000",Hyderabad,Teens,Market Expansion,4.96,F1-Racing
+UniqueCompany_330,Sports,"1,000-5,000",Pune,Adults,Market Expansion,4.5,Swimming
+UniqueCompany_331,Sports,"20,000-100,000",Surat,Teens,Market Expansion,2.27,Swimming
+UniqueCompany_332,Technology,"1,000-5,000",Thane,Teens,Market Expansion,3.18,Athletics
+UniqueCompany_333,Sports,"Over 100,000",Indore,Teens,Market Expansion,1.68,Wrestling
+UniqueCompany_334,Technology,"5,000-20,000",Visakhapatnam,Teens,Market Expansion,2.7,Wrestling
+UniqueCompany_335,Sports,"5,000-20,000",Meerut,Young Adults,Market Expansion,2.71,Wrestling
+UniqueCompany_336,Fashion,"20,000-100,000",Rajkot,Adults,Sales Increase,3.46,Football
+UniqueCompany_337,Food & Beverage,"5,000-20,000",Surat,Teens,Sales Increase,2.96,Tennis
+UniqueCompany_338,Finance,"Over 100,000",Kolkata,Young Adults,Brand Awareness,4.95,F1-Racing
+UniqueCompany_339,Healthcare,"20,000-100,000",Varanasi,Adults,Brand Awareness,4.36,Athletics
+UniqueCompany_340,Sports,"5,000-20,000",Agra,Adults,Market Expansion,1.32,Tennis
+UniqueCompany_341,Technology,"1,000-5,000",Mumbai,Young Adults,Brand Awareness,0.71,Soccer
+UniqueCompany_342,Technology,"Over 100,000",Hyderabad,Teens,Sales Increase,3.54,Wrestling
+UniqueCompany_343,Healthcare,"5,000-20,000",Faridabad,Adults,Sales Increase,1.79,Tennis
+UniqueCompany_344,Fashion,"Over 100,000",Ahmedabad,Adults,Brand Awareness,3.84,Swimming
+UniqueCompany_345,Food & Beverage,"5,000-20,000",Bangalore,Young Adults,Market Expansion,4.41,F1-Racing
+UniqueCompany_346,Finance,"1,000-5,000",Ahmedabad,Seniors,Brand Awareness,0.87,Basketball
+UniqueCompany_347,Sports,"5,000-20,000",Hyderabad,Teens,Brand Awareness,2.83,Athletics
+UniqueCompany_348,Finance,"5,000-20,000",Lucknow,Young Adults,Sales Increase,2.03,F1-Racing
+UniqueCompany_349,Healthcare,"1,000-5,000",Hyderabad,Teens,Brand Awareness,1.59,Tennis
+UniqueCompany_350,Fashion,"20,000-100,000",Bangalore,Young Adults,Sales Increase,2.4,Wrestling
+UniqueCompany_351,Sports,"1,000-5,000",Rajkot,Young Adults,Brand Awareness,2.35,Football
+UniqueCompany_352,Technology,"1,000-5,000",Lucknow,Young Adults,Market Expansion,4.9,Soccer
+UniqueCompany_353,Healthcare,"Over 100,000",Varanasi,Teens,Sales Increase,4.47,Tennis
+UniqueCompany_354,Technology,"5,000-20,000",Visakhapatnam,Teens,Sales Increase,3.16,Athletics
+UniqueCompany_355,Healthcare,"Over 100,000",Ludhiana,Young Adults,Brand Awareness,2.66,Soccer
+UniqueCompany_356,Healthcare,"1,000-5,000",Dhanbad,Young Adults,Market Expansion,3.2,Athletics
+UniqueCompany_357,Sports,"Over 100,000",Mumbai,Seniors,Market Expansion,0.98,Football
+UniqueCompany_358,Technology,"20,000-100,000",Aurangabad,Young Adults,Brand Awareness,1.03,Cricket
+UniqueCompany_359,Technology,"Over 100,000",Bangalore,Seniors,Market Expansion,0.81,F1-Racing
+UniqueCompany_360,Finance,"5,000-20,000",Varanasi,Adults,Sales Increase,0.54,Tennis
+UniqueCompany_361,Healthcare,"5,000-20,000",Agra,Young Adults,Sales Increase,0.66,Swimming
+UniqueCompany_362,Technology,"5,000-20,000",Meerut,Adults,Sales Increase,1.37,F1-Racing
+UniqueCompany_363,Healthcare,"1,000-5,000",Agra,Adults,Brand Awareness,3.27,Swimming
+UniqueCompany_364,Finance,"20,000-100,000",Faridabad,Young Adults,Brand Awareness,4.37,Tennis
+UniqueCompany_365,Sports,"Over 100,000",Thane,Adults,Sales Increase,1.76,F1-Racing
+UniqueCompany_366,Technology,"1,000-5,000",Rajkot,Young Adults,Market Expansion,3.55,Athletics
+UniqueCompany_367,Fashion,"20,000-100,000",Srinagar,Teens,Market Expansion,3.9,F1-Racing
+UniqueCompany_368,Sports,"1,000-5,000",Lucknow,Young Adults,Market Expansion,4.41,Soccer
+UniqueCompany_369,Sports,"5,000-20,000",Amritsar,Adults,Market Expansion,4.84,Swimming
+UniqueCompany_370,Food & Beverage,"Over 100,000",Agra,Adults,Market Expansion,2.9,F1-Racing
+UniqueCompany_371,Healthcare,"Over 100,000",Ghaziabad,Teens,Brand Awareness,2.43,F1-Racing
+UniqueCompany_372,Healthcare,"Over 100,000",Jaipur,Teens,Sales Increase,2.31,F1-Racing
+UniqueCompany_373,Sports,"Over 100,000",Kolkata,Teens,Sales Increase,2.81,Athletics
+UniqueCompany_374,Food & Beverage,"5,000-20,000",Bangalore,Teens,Market Expansion,2.6,Swimming
+UniqueCompany_375,Finance,"20,000-100,000",Varanasi,Adults,Sales Increase,3.12,Tennis
+UniqueCompany_376,Food & Beverage,"1,000-5,000",Bangalore,Seniors,Market Expansion,4.25,Football
+UniqueCompany_377,Technology,"5,000-20,000",Allahabad,Seniors,Sales Increase,2.1,Soccer
+UniqueCompany_378,Food & Beverage,"Over 100,000",Kolkata,Seniors,Market Expansion,4.6,Tennis
+UniqueCompany_379,Healthcare,"Over 100,000",Kolkata,Adults,Market Expansion,2.16,Wrestling
+UniqueCompany_380,Food & Beverage,"20,000-100,000",Indore,Seniors,Brand Awareness,3.94,Wrestling
+UniqueCompany_381,Finance,"Over 100,000",Hyderabad,Young Adults,Brand Awareness,3.33,Athletics
+UniqueCompany_382,Sports,"Over 100,000",Bhopal,Young Adults,Brand Awareness,4.19,Swimming
+UniqueCompany_383,Healthcare,"Over 100,000",Thane,Young Adults,Brand Awareness,4.48,Soccer
+UniqueCompany_384,Food & Beverage,"1,000-5,000",Patna,Seniors,Sales Increase,4.56,Tennis
+UniqueCompany_385,Finance,"Over 100,000",Patna,Teens,Market Expansion,2.86,Cricket
+UniqueCompany_386,Finance,"Over 100,000",Srinagar,Young Adults,Sales Increase,4.81,Cricket
+UniqueCompany_387,Food & Beverage,"Over 100,000",Ahmedabad,Teens,Market Expansion,3.05,F1-Racing
+UniqueCompany_388,Healthcare,"1,000-5,000",Indore,Seniors,Sales Increase,1.14,Cricket
+UniqueCompany_389,Sports,"1,000-5,000",Aurangabad,Teens,Brand Awareness,0.79,Athletics
+UniqueCompany_390,Fashion,"5,000-20,000",Lucknow,Young Adults,Market Expansion,3.33,Basketball
+UniqueCompany_391,Food & Beverage,"5,000-20,000",Bangalore,Adults,Market Expansion,2.47,Tennis
+UniqueCompany_392,Sports,"5,000-20,000",Bhopal,Young Adults,Brand Awareness,1.87,Football
+UniqueCompany_393,Sports,"Over 100,000",Ahmedabad,Seniors,Brand Awareness,1.69,Athletics
+UniqueCompany_394,Healthcare,"Over 100,000",Srinagar,Adults,Market Expansion,2.78,Athletics
+UniqueCompany_395,Technology,"1,000-5,000",Ghaziabad,Young Adults,Sales Increase,3.31,Cricket
+UniqueCompany_396,Technology,"20,000-100,000",Mumbai,Teens,Brand Awareness,1.92,Athletics
+UniqueCompany_397,Finance,"Over 100,000",Amritsar,Adults,Market Expansion,3.83,Wrestling
+UniqueCompany_398,Fashion,"1,000-5,000",Lucknow,Seniors,Brand Awareness,3.55,Wrestling
+UniqueCompany_399,Fashion,"20,000-100,000",Patna,Seniors,Sales Increase,1.58,Athletics
+UniqueCompany_400,Technology,"5,000-20,000",Rajkot,Seniors,Market Expansion,4.64,Athletics
+UniqueCompany_401,Healthcare,"Over 100,000",Kolkata,Teens,Brand Awareness,4.88,Basketball
+UniqueCompany_402,Food & Beverage,"5,000-20,000",Surat,Teens,Market Expansion,3.8,Cricket
+UniqueCompany_403,Food & Beverage,"20,000-100,000",Kolkata,Seniors,Market Expansion,4.75,Tennis
+UniqueCompany_404,Sports,"Over 100,000",Varanasi,Seniors,Market Expansion,1.95,Swimming
+UniqueCompany_405,Fashion,"Over 100,000",Rajkot,Adults,Sales Increase,2.26,Basketball
+UniqueCompany_406,Technology,"Over 100,000",Dhanbad,Teens,Sales Increase,3.61,Wrestling
+UniqueCompany_407,Technology,"5,000-20,000",Varanasi,Adults,Market Expansion,4.77,Cricket
+UniqueCompany_408,Sports,"Over 100,000",Agra,Young Adults,Sales Increase,2.02,Swimming
+UniqueCompany_409,Food & Beverage,"5,000-20,000",Pune,Teens,Brand Awareness,4.01,F1-Racing
+UniqueCompany_410,Healthcare,"5,000-20,000",Bhopal,Adults,Brand Awareness,4.58,Soccer
+UniqueCompany_411,Food & Beverage,"5,000-20,000",Ahmedabad,Young Adults,Brand Awareness,3.73,Cricket
+UniqueCompany_412,Finance,"Over 100,000",Faridabad,Young Adults,Market Expansion,2.67,F1-Racing
+UniqueCompany_413,Technology,"5,000-20,000",Ghaziabad,Seniors,Sales Increase,3.6,Cricket
+UniqueCompany_414,Healthcare,"Over 100,000",Nashik,Seniors,Market Expansion,1.98,Athletics
+UniqueCompany_415,Healthcare,"20,000-100,000",Rajkot,Seniors,Brand Awareness,4.57,Cricket
+UniqueCompany_416,Fashion,"20,000-100,000",Varanasi,Adults,Sales Increase,4.87,Basketball
+UniqueCompany_417,Technology,"20,000-100,000",Ludhiana,Seniors,Market Expansion,4.86,Cricket
+UniqueCompany_418,Healthcare,"20,000-100,000",Kolkata,Adults,Brand Awareness,4.18,Tennis
+UniqueCompany_419,Sports,"20,000-100,000",Mumbai,Young Adults,Market Expansion,1.84,Soccer
+UniqueCompany_420,Technology,"1,000-5,000",Lucknow,Adults,Brand Awareness,1.37,Tennis
+UniqueCompany_421,Sports,"20,000-100,000",Indore,Young Adults,Brand Awareness,1.81,Basketball
+UniqueCompany_422,Healthcare,"5,000-20,000",Thane,Young Adults,Market Expansion,1.49,Swimming
+UniqueCompany_423,Food & Beverage,"5,000-20,000",Allahabad,Young Adults,Market Expansion,0.89,Wrestling
+UniqueCompany_424,Food & Beverage,"Over 100,000",Varanasi,Seniors,Brand Awareness,4.46,Tennis
+UniqueCompany_425,Food & Beverage,"Over 100,000",Visakhapatnam,Teens,Brand Awareness,2.81,Soccer
+UniqueCompany_426,Sports,"1,000-5,000",Delhi,Young Adults,Market Expansion,1.6,Swimming
+UniqueCompany_427,Food & Beverage,"1,000-5,000",Pune,Seniors,Brand Awareness,3.93,Athletics
+UniqueCompany_428,Finance,"20,000-100,000",Jaipur,Young Adults,Brand Awareness,3.9,F1-Racing
+UniqueCompany_429,Food & Beverage,"1,000-5,000",Thane,Adults,Sales Increase,3.82,Wrestling
+UniqueCompany_430,Sports,"20,000-100,000",Dhanbad,Teens,Market Expansion,4.86,Athletics
+UniqueCompany_431,Technology,"Over 100,000",Pune,Teens,Brand Awareness,3.11,Soccer
+UniqueCompany_432,Food & Beverage,"20,000-100,000",Agra,Young Adults,Market Expansion,0.95,Athletics
+UniqueCompany_433,Healthcare,"5,000-20,000",Nagpur,Seniors,Market Expansion,4.66,Basketball
+UniqueCompany_434,Food & Beverage,"1,000-5,000",Thane,Adults,Brand Awareness,3.03,Soccer
+UniqueCompany_435,Technology,"1,000-5,000",Nashik,Teens,Sales Increase,4.61,Soccer
+UniqueCompany_436,Fashion,"5,000-20,000",Chennai,Teens,Market Expansion,1.2,Athletics
+UniqueCompany_437,Healthcare,"20,000-100,000",Kanpur,Teens,Sales Increase,3.16,Tennis
+UniqueCompany_438,Fashion,"1,000-5,000",Bhopal,Adults,Sales Increase,1.75,Wrestling
+UniqueCompany_439,Finance,"5,000-20,000",Chennai,Teens,Sales Increase,1.69,Cricket
+UniqueCompany_440,Sports,"1,000-5,000",Allahabad,Seniors,Brand Awareness,4.2,Soccer
+UniqueCompany_441,Fashion,"Over 100,000",Ghaziabad,Teens,Market Expansion,1.38,Swimming
+UniqueCompany_442,Food & Beverage,"1,000-5,000",Srinagar,Teens,Sales Increase,3.41,Tennis
+UniqueCompany_443,Finance,"5,000-20,000",Aurangabad,Adults,Sales Increase,4.09,Soccer
+UniqueCompany_444,Finance,"Over 100,000",Srinagar,Teens,Brand Awareness,4.79,F1-Racing
+UniqueCompany_445,Sports,"5,000-20,000",Rajkot,Young Adults,Brand Awareness,4.89,Basketball
+UniqueCompany_446,Technology,"20,000-100,000",Visakhapatnam,Young Adults,Brand Awareness,3.53,Soccer
+UniqueCompany_447,Technology,"5,000-20,000",Pune,Young Adults,Sales Increase,4.29,F1-Racing
+UniqueCompany_448,Food & Beverage,"Over 100,000",Allahabad,Teens,Sales Increase,0.74,Tennis
+UniqueCompany_449,Sports,"Over 100,000",Bhopal,Teens,Brand Awareness,4.14,Wrestling
+UniqueCompany_450,Sports,"20,000-100,000",Ahmedabad,Teens,Market Expansion,2.29,Cricket
+UniqueCompany_451,Food & Beverage,"1,000-5,000",Varanasi,Teens,Market Expansion,3.39,F1-Racing
+UniqueCompany_452,Fashion,"20,000-100,000",Mumbai,Adults,Market Expansion,3.31,Swimming
+UniqueCompany_453,Healthcare,"20,000-100,000",Surat,Teens,Sales Increase,3.71,F1-Racing
+UniqueCompany_454,Healthcare,"20,000-100,000",Visakhapatnam,Adults,Sales Increase,4.01,Wrestling
+UniqueCompany_455,Finance,"1,000-5,000",Mumbai,Young Adults,Brand Awareness,4.55,Cricket
+UniqueCompany_456,Finance,"5,000-20,000",Mumbai,Seniors,Market Expansion,2.63,F1-Racing
+UniqueCompany_457,Finance,"Over 100,000",Bhopal,Teens,Sales Increase,4.75,Tennis
+UniqueCompany_458,Food & Beverage,"20,000-100,000",Ludhiana,Teens,Brand Awareness,1.7,Soccer
+UniqueCompany_459,Food & Beverage,"5,000-20,000",Nashik,Young Adults,Market Expansion,4.3,Swimming
+UniqueCompany_460,Food & Beverage,"Over 100,000",Bhopal,Seniors,Sales Increase,3.86,Swimming
+UniqueCompany_461,Healthcare,"5,000-20,000",Nagpur,Young Adults,Sales Increase,0.52,Tennis
+UniqueCompany_462,Finance,"5,000-20,000",Varanasi,Seniors,Market Expansion,2.56,F1-Racing
+UniqueCompany_463,Fashion,"Over 100,000",Bhopal,Adults,Sales Increase,4.54,Football
+UniqueCompany_464,Technology,"5,000-20,000",Mumbai,Teens,Market Expansion,1.95,Tennis
+UniqueCompany_465,Technology,"20,000-100,000",Amritsar,Teens,Sales Increase,1.57,Football
+UniqueCompany_466,Sports,"1,000-5,000",Patna,Adults,Brand Awareness,2.38,Football
+UniqueCompany_467,Fashion,"5,000-20,000",Ludhiana,Adults,Brand Awareness,3.01,Basketball
+UniqueCompany_468,Finance,"5,000-20,000",Thane,Teens,Market Expansion,1.75,Basketball
+UniqueCompany_469,Food & Beverage,"20,000-100,000",Nashik,Seniors,Brand Awareness,2.87,Tennis
+UniqueCompany_470,Food & Beverage,"Over 100,000",Patna,Young Adults,Brand Awareness,3.81,Wrestling
+UniqueCompany_471,Fashion,"Over 100,000",Kolkata,Seniors,Brand Awareness,0.7,Cricket
+UniqueCompany_472,Healthcare,"5,000-20,000",Amritsar,Young Adults,Sales Increase,1.93,Wrestling
+UniqueCompany_473,Technology,"5,000-20,000",Aurangabad,Adults,Sales Increase,3.45,F1-Racing
+UniqueCompany_474,Technology,"Over 100,000",Jaipur,Seniors,Brand Awareness,0.69,Tennis
+UniqueCompany_475,Technology,"Over 100,000",Nashik,Teens,Brand Awareness,1.82,Soccer
+UniqueCompany_476,Food & Beverage,"Over 100,000",Lucknow,Teens,Sales Increase,4.57,Cricket
+UniqueCompany_477,Technology,"1,000-5,000",Ahmedabad,Young Adults,Brand Awareness,1.55,Cricket
+UniqueCompany_478,Healthcare,"5,000-20,000",Surat,Adults,Brand Awareness,1.48,Tennis
+UniqueCompany_479,Healthcare,"5,000-20,000",Ludhiana,Adults,Sales Increase,0.55,F1-Racing
+UniqueCompany_480,Finance,"20,000-100,000",Pune,Young Adults,Brand Awareness,2.94,F1-Racing
+UniqueCompany_481,Healthcare,"1,000-5,000",Lucknow,Young Adults,Sales Increase,3.26,Athletics
+UniqueCompany_482,Sports,"20,000-100,000",Ghaziabad,Young Adults,Market Expansion,0.82,F1-Racing
+UniqueCompany_483,Food & Beverage,"Over 100,000",Ludhiana,Young Adults,Sales Increase,2.17,Swimming
+UniqueCompany_484,Food & Beverage,"20,000-100,000",Rajkot,Seniors,Market Expansion,1.84,Football
+UniqueCompany_485,Healthcare,"20,000-100,000",Agra,Teens,Brand Awareness,1.24,Cricket
+UniqueCompany_486,Healthcare,"1,000-5,000",Thane,Young Adults,Market Expansion,0.87,Basketball
+UniqueCompany_487,Food & Beverage,"5,000-20,000",Allahabad,Adults,Market Expansion,4.76,Athletics
+UniqueCompany_488,Healthcare,"1,000-5,000",Mumbai,Adults,Sales Increase,2.81,Football
+UniqueCompany_489,Healthcare,"1,000-5,000",Visakhapatnam,Teens,Sales Increase,1.42,Basketball
+UniqueCompany_490,Finance,"Over 100,000",Thane,Seniors,Sales Increase,1.87,Football
+UniqueCompany_491,Fashion,"20,000-100,000",Ahmedabad,Teens,Sales Increase,4.43,F1-Racing
+UniqueCompany_492,Finance,"5,000-20,000",Rajkot,Seniors,Sales Increase,3.42,Wrestling
+UniqueCompany_493,Technology,"5,000-20,000",Bhopal,Teens,Brand Awareness,0.84,Cricket
+UniqueCompany_494,Food & Beverage,"20,000-100,000",Faridabad,Teens,Market Expansion,3.36,Cricket
+UniqueCompany_495,Technology,"5,000-20,000",Ahmedabad,Adults,Sales Increase,1.61,Basketball
+UniqueCompany_496,Healthcare,"1,000-5,000",Rajkot,Seniors,Brand Awareness,1.68,Swimming
+UniqueCompany_497,Technology,"1,000-5,000",Ludhiana,Seniors,Brand Awareness,1.24,Athletics
+UniqueCompany_498,Finance,"5,000-20,000",Delhi,Young Adults,Market Expansion,1.57,Basketball
+UniqueCompany_499,Technology,"Over 100,000",Kanpur,Young Adults,Market Expansion,2.63,Soccer
+UniqueCompany_500,Finance,"20,000-100,000",Jaipur,Young Adults,Sales Increase,4.45,Tennis
+UniqueCompany_501,Food & Beverage,"Over 100,000",Aurangabad,Teens,Brand Awareness,2.16,Swimming
+UniqueCompany_502,Finance,"Over 100,000",Agra,Adults,Brand Awareness,0.85,Football
+UniqueCompany_503,Technology,"1,000-5,000",Nagpur,Teens,Brand Awareness,4.42,F1-Racing
+UniqueCompany_504,Finance,"Over 100,000",Lucknow,Teens,Market Expansion,2.85,Football
+UniqueCompany_505,Healthcare,"1,000-5,000",Ghaziabad,Young Adults,Market Expansion,0.77,Cricket
+UniqueCompany_506,Technology,"20,000-100,000",Lucknow,Young Adults,Market Expansion,2.05,F1-Racing
+UniqueCompany_507,Food & Beverage,"5,000-20,000",Thane,Seniors,Brand Awareness,3.63,Tennis
+UniqueCompany_508,Finance,"1,000-5,000",Amritsar,Teens,Sales Increase,4.18,Athletics
+UniqueCompany_509,Food & Beverage,"20,000-100,000",Kanpur,Seniors,Market Expansion,3.95,Football
+UniqueCompany_510,Fashion,"Over 100,000",Visakhapatnam,Seniors,Sales Increase,3.9,F1-Racing
+UniqueCompany_511,Healthcare,"Over 100,000",Hyderabad,Seniors,Market Expansion,1.05,F1-Racing
+UniqueCompany_512,Technology,"20,000-100,000",Nashik,Adults,Market Expansion,4.29,Cricket
+UniqueCompany_513,Sports,"20,000-100,000",Srinagar,Young Adults,Market Expansion,3.85,Soccer
+UniqueCompany_514,Finance,"Over 100,000",Agra,Young Adults,Market Expansion,2.81,Tennis
+UniqueCompany_515,Fashion,"1,000-5,000",Ludhiana,Teens,Brand Awareness,3.36,Football
+UniqueCompany_516,Food & Beverage,"5,000-20,000",Aurangabad,Teens,Brand Awareness,1.31,Basketball
+UniqueCompany_517,Healthcare,"Over 100,000",Allahabad,Young Adults,Sales Increase,2.17,Football
+UniqueCompany_518,Technology,"5,000-20,000",Chennai,Adults,Brand Awareness,3.17,Football
+UniqueCompany_519,Food & Beverage,"20,000-100,000",Bangalore,Seniors,Market Expansion,2.35,Tennis
+UniqueCompany_520,Technology,"1,000-5,000",Amritsar,Adults,Brand Awareness,3.58,Cricket
+UniqueCompany_521,Sports,"Over 100,000",Amritsar,Young Adults,Market Expansion,1.61,F1-Racing
+UniqueCompany_522,Sports,"5,000-20,000",Chennai,Young Adults,Sales Increase,4.41,Basketball
+UniqueCompany_523,Finance,"Over 100,000",Varanasi,Adults,Brand Awareness,4.11,Athletics
+UniqueCompany_524,Finance,"Over 100,000",Indore,Seniors,Market Expansion,2.04,Swimming
+UniqueCompany_525,Finance,"20,000-100,000",Ludhiana,Seniors,Brand Awareness,1.96,Cricket
+UniqueCompany_526,Fashion,"1,000-5,000",Ludhiana,Teens,Market Expansion,3,Wrestling
+UniqueCompany_527,Finance,"1,000-5,000",Delhi,Teens,Sales Increase,1.49,Basketball
+UniqueCompany_528,Finance,"5,000-20,000",Jaipur,Teens,Brand Awareness,2.82,Football
+UniqueCompany_529,Technology,"5,000-20,000",Kanpur,Adults,Market Expansion,1.78,Cricket
+UniqueCompany_530,Food & Beverage,"1,000-5,000",Chennai,Adults,Brand Awareness,2.05,Soccer
+UniqueCompany_531,Fashion,"Over 100,000",Srinagar,Young Adults,Sales Increase,2.93,Basketball
+UniqueCompany_532,Healthcare,"1,000-5,000",Nashik,Young Adults,Brand Awareness,1.8,Athletics
+UniqueCompany_533,Finance,"Over 100,000",Nagpur,Adults,Market Expansion,0.93,Basketball
+UniqueCompany_534,Finance,"5,000-20,000",Allahabad,Seniors,Sales Increase,2.32,Swimming
+UniqueCompany_535,Healthcare,"Over 100,000",Visakhapatnam,Seniors,Sales Increase,0.8,Athletics
+UniqueCompany_536,Finance,"20,000-100,000",Rajkot,Young Adults,Sales Increase,3.91,F1-Racing
+UniqueCompany_537,Sports,"Over 100,000",Delhi,Adults,Market Expansion,2.86,Tennis
+UniqueCompany_538,Sports,"20,000-100,000",Ghaziabad,Adults,Market Expansion,3.2,Cricket
+UniqueCompany_539,Sports,"5,000-20,000",Nagpur,Young Adults,Market Expansion,4.84,Tennis
+UniqueCompany_540,Technology,"5,000-20,000",Mumbai,Young Adults,Brand Awareness,4.63,Basketball
+UniqueCompany_541,Fashion,"5,000-20,000",Aurangabad,Young Adults,Sales Increase,2.81,F1-Racing
+UniqueCompany_542,Healthcare,"5,000-20,000",Nagpur,Young Adults,Market Expansion,2.63,Cricket
+UniqueCompany_543,Technology,"5,000-20,000",Chennai,Seniors,Brand Awareness,1.28,F1-Racing
+UniqueCompany_544,Sports,"1,000-5,000",Ludhiana,Young Adults,Brand Awareness,4.37,Basketball
+UniqueCompany_545,Sports,"5,000-20,000",Visakhapatnam,Adults,Brand Awareness,4.64,Tennis
+UniqueCompany_546,Sports,"20,000-100,000",Ghaziabad,Teens,Market Expansion,3.56,F1-Racing
+UniqueCompany_547,Sports,"Over 100,000",Surat,Young Adults,Brand Awareness,2.78,Cricket
+UniqueCompany_548,Fashion,"Over 100,000",Agra,Seniors,Sales Increase,3.15,Tennis
+UniqueCompany_549,Fashion,"5,000-20,000",Aurangabad,Seniors,Market Expansion,4.71,Soccer
+UniqueCompany_550,Sports,"20,000-100,000",Bhopal,Adults,Brand Awareness,4.3,Tennis
+UniqueCompany_551,Healthcare,"1,000-5,000",Nagpur,Teens,Brand Awareness,3.13,Soccer
+UniqueCompany_552,Sports,"Over 100,000",Dhanbad,Teens,Market Expansion,4.31,Athletics
+UniqueCompany_553,Fashion,"1,000-5,000",Amritsar,Teens,Brand Awareness,0.91,Wrestling
+UniqueCompany_554,Fashion,"5,000-20,000",Nashik,Seniors,Brand Awareness,1.92,Tennis
+UniqueCompany_555,Technology,"Over 100,000",Bangalore,Teens,Market Expansion,1.52,Basketball
+UniqueCompany_556,Finance,"1,000-5,000",Chennai,Adults,Sales Increase,4.93,Football
+UniqueCompany_557,Technology,"5,000-20,000",Agra,Teens,Market Expansion,4.99,Soccer
+UniqueCompany_558,Healthcare,"5,000-20,000",Aurangabad,Young Adults,Brand Awareness,4.99,Football
+UniqueCompany_559,Sports,"5,000-20,000",Bangalore,Seniors,Sales Increase,0.63,Football
+UniqueCompany_560,Technology,"1,000-5,000",Bangalore,Teens,Sales Increase,1.97,Athletics
+UniqueCompany_561,Finance,"Over 100,000",Meerut,Young Adults,Market Expansion,4.5,Swimming
+UniqueCompany_562,Technology,"Over 100,000",Amritsar,Adults,Sales Increase,1.02,F1-Racing
+UniqueCompany_563,Healthcare,"Over 100,000",Chennai,Young Adults,Brand Awareness,4.96,Swimming
+UniqueCompany_564,Healthcare,"Over 100,000",Amritsar,Young Adults,Market Expansion,3.73,F1-Racing
+UniqueCompany_565,Technology,"1,000-5,000",Patna,Adults,Market Expansion,4.81,Swimming
+UniqueCompany_566,Technology,"20,000-100,000",Ludhiana,Seniors,Sales Increase,1.82,Soccer
+UniqueCompany_567,Fashion,"5,000-20,000",Dhanbad,Young Adults,Sales Increase,1.38,Tennis
+UniqueCompany_568,Finance,"Over 100,000",Rajkot,Adults,Sales Increase,1.15,Tennis
+UniqueCompany_569,Technology,"20,000-100,000",Allahabad,Seniors,Brand Awareness,3.74,Cricket
+UniqueCompany_570,Healthcare,"5,000-20,000",Vadodara,Seniors,Sales Increase,4.55,Soccer
+UniqueCompany_571,Technology,"20,000-100,000",Amritsar,Seniors,Market Expansion,2.55,Tennis
+UniqueCompany_572,Fashion,"1,000-5,000",Hyderabad,Teens,Brand Awareness,1.52,Basketball
+UniqueCompany_573,Technology,"1,000-5,000",Srinagar,Adults,Sales Increase,3.75,Football
+UniqueCompany_574,Healthcare,"20,000-100,000",Kanpur,Seniors,Sales Increase,2.32,Wrestling
+UniqueCompany_575,Sports,"5,000-20,000",Patna,Adults,Brand Awareness,2.09,Basketball
+UniqueCompany_576,Technology,"1,000-5,000",Bangalore,Seniors,Brand Awareness,2,Soccer
+UniqueCompany_577,Finance,"Over 100,000",Mumbai,Adults,Market Expansion,4.87,Basketball
+UniqueCompany_578,Sports,"20,000-100,000",Vadodara,Adults,Market Expansion,0.86,Football
+UniqueCompany_579,Healthcare,"Over 100,000",Dhanbad,Adults,Brand Awareness,2.57,Wrestling
+UniqueCompany_580,Finance,"5,000-20,000",Aurangabad,Teens,Sales Increase,1.4,Tennis
+UniqueCompany_581,Technology,"Over 100,000",Kanpur,Seniors,Sales Increase,4.52,Wrestling
+UniqueCompany_582,Technology,"Over 100,000",Pune,Seniors,Sales Increase,4.97,Wrestling
+UniqueCompany_583,Fashion,"5,000-20,000",Thane,Young Adults,Sales Increase,4.58,Cricket
+UniqueCompany_584,Fashion,"1,000-5,000",Kolkata,Adults,Brand Awareness,1.84,Cricket
+UniqueCompany_585,Technology,"20,000-100,000",Agra,Teens,Brand Awareness,1.4,Swimming
+UniqueCompany_586,Fashion,"Over 100,000",Ahmedabad,Young Adults,Market Expansion,2.67,Tennis
+UniqueCompany_587,Healthcare,"5,000-20,000",Kolkata,Teens,Brand Awareness,2.18,Swimming
+UniqueCompany_588,Technology,"20,000-100,000",Rajkot,Teens,Brand Awareness,4.34,Wrestling
+UniqueCompany_589,Healthcare,"5,000-20,000",Aurangabad,Young Adults,Market Expansion,1.94,Wrestling
+UniqueCompany_590,Food & Beverage,"20,000-100,000",Kolkata,Teens,Brand Awareness,0.83,Tennis
+UniqueCompany_591,Fashion,"1,000-5,000",Dhanbad,Seniors,Sales Increase,0.73,Cricket
+UniqueCompany_592,Healthcare,"20,000-100,000",Lucknow,Seniors,Sales Increase,4.04,Athletics
+UniqueCompany_593,Healthcare,"1,000-5,000",Meerut,Teens,Market Expansion,1,Swimming
+UniqueCompany_594,Technology,"1,000-5,000",Rajkot,Seniors,Brand Awareness,4.77,Tennis
+UniqueCompany_595,Food & Beverage,"5,000-20,000",Srinagar,Young Adults,Market Expansion,2,Tennis
+UniqueCompany_596,Food & Beverage,"5,000-20,000",Thane,Young Adults,Sales Increase,2.25,Tennis
+UniqueCompany_597,Fashion,"20,000-100,000",Jaipur,Teens,Market Expansion,1.69,Wrestling
+UniqueCompany_598,Technology,"5,000-20,000",Nagpur,Adults,Sales Increase,1.68,Wrestling
+UniqueCompany_599,Healthcare,"1,000-5,000",Chennai,Young Adults,Market Expansion,2.64,Soccer
+UniqueCompany_600,Sports,"1,000-5,000",Mumbai,Teens,Market Expansion,4.11,Soccer
+UniqueCompany_601,Technology,"20,000-100,000",Varanasi,Teens,Brand Awareness,1.18,Cricket
+UniqueCompany_602,Food & Beverage,"Over 100,000",Ghaziabad,Seniors,Brand Awareness,0.73,Swimming
+UniqueCompany_603,Sports,"5,000-20,000",Faridabad,Adults,Sales Increase,3.82,Cricket
+UniqueCompany_604,Fashion,"20,000-100,000",Rajkot,Teens,Brand Awareness,3.9,Soccer
+UniqueCompany_605,Technology,"20,000-100,000",Ludhiana,Young Adults,Market Expansion,2.55,Cricket
+UniqueCompany_606,Finance,"20,000-100,000",Bhopal,Seniors,Sales Increase,3.7,Tennis
+UniqueCompany_607,Food & Beverage,"1,000-5,000",Kanpur,Young Adults,Market Expansion,1.72,F1-Racing
+UniqueCompany_608,Healthcare,"1,000-5,000",Patna,Adults,Market Expansion,2.87,Cricket
+UniqueCompany_609,Food & Beverage,"Over 100,000",Meerut,Adults,Market Expansion,2,F1-Racing
+UniqueCompany_610,Finance,"20,000-100,000",Allahabad,Adults,Sales Increase,2.68,Football
+UniqueCompany_611,Fashion,"20,000-100,000",Faridabad,Young Adults,Brand Awareness,3.1,Wrestling
+UniqueCompany_612,Fashion,"5,000-20,000",Ahmedabad,Seniors,Brand Awareness,2.06,Wrestling
+UniqueCompany_613,Technology,"Over 100,000",Kolkata,Seniors,Brand Awareness,3.21,Swimming
+UniqueCompany_614,Healthcare,"1,000-5,000",Aurangabad,Seniors,Market Expansion,1.82,Swimming
+UniqueCompany_615,Finance,"20,000-100,000",Allahabad,Seniors,Sales Increase,2.67,Basketball
+UniqueCompany_616,Healthcare,"20,000-100,000",Visakhapatnam,Seniors,Sales Increase,3.47,Athletics
+UniqueCompany_617,Technology,"1,000-5,000",Surat,Young Adults,Sales Increase,0.58,F1-Racing
+UniqueCompany_618,Finance,"Over 100,000",Agra,Adults,Market Expansion,1.15,Soccer
+UniqueCompany_619,Finance,"5,000-20,000",Pune,Seniors,Market Expansion,1.92,F1-Racing
+UniqueCompany_620,Technology,"1,000-5,000",Rajkot,Young Adults,Sales Increase,3.36,Cricket
+UniqueCompany_621,Technology,"1,000-5,000",Nashik,Teens,Market Expansion,0.77,Wrestling
+UniqueCompany_622,Fashion,"20,000-100,000",Meerut,Teens,Sales Increase,3.83,Cricket
+UniqueCompany_623,Finance,"Over 100,000",Lucknow,Young Adults,Brand Awareness,0.53,Tennis
+UniqueCompany_624,Sports,"20,000-100,000",Vadodara,Adults,Market Expansion,1.29,Swimming
+UniqueCompany_625,Sports,"Over 100,000",Bhopal,Teens,Brand Awareness,4.84,Football
+UniqueCompany_626,Sports,"1,000-5,000",Faridabad,Young Adults,Market Expansion,1.09,F1-Racing
+UniqueCompany_627,Sports,"5,000-20,000",Faridabad,Adults,Market Expansion,3.04,F1-Racing
+UniqueCompany_628,Healthcare,"Over 100,000",Visakhapatnam,Young Adults,Brand Awareness,3.26,Swimming
+UniqueCompany_629,Healthcare,"Over 100,000",Mumbai,Young Adults,Sales Increase,0.86,Basketball
+UniqueCompany_630,Food & Beverage,"Over 100,000",Delhi,Adults,Sales Increase,3.4,Tennis
+UniqueCompany_631,Technology,"20,000-100,000",Meerut,Seniors,Sales Increase,3.66,Basketball
+UniqueCompany_632,Fashion,"20,000-100,000",Bangalore,Seniors,Sales Increase,2.22,Athletics
+UniqueCompany_633,Sports,"1,000-5,000",Surat,Seniors,Brand Awareness,4.07,Wrestling
+UniqueCompany_634,Finance,"Over 100,000",Amritsar,Young Adults,Market Expansion,4.93,Swimming
+UniqueCompany_635,Finance,"Over 100,000",Dhanbad,Young Adults,Brand Awareness,3.78,Swimming
+UniqueCompany_636,Fashion,"Over 100,000",Meerut,Young Adults,Brand Awareness,2.93,Basketball
+UniqueCompany_637,Technology,"5,000-20,000",Ahmedabad,Seniors,Market Expansion,2.47,Basketball
+UniqueCompany_638,Technology,"1,000-5,000",Surat,Teens,Market Expansion,0.74,Swimming
+UniqueCompany_639,Healthcare,"20,000-100,000",Faridabad,Young Adults,Brand Awareness,2.33,Wrestling
+UniqueCompany_640,Finance,"Over 100,000",Ghaziabad,Young Adults,Market Expansion,4.63,Football
+UniqueCompany_641,Sports,"5,000-20,000",Indore,Adults,Sales Increase,2.54,Wrestling
+UniqueCompany_642,Fashion,"5,000-20,000",Chennai,Teens,Sales Increase,4.42,Athletics
+UniqueCompany_643,Food & Beverage,"20,000-100,000",Faridabad,Adults,Market Expansion,3.53,Tennis
+UniqueCompany_644,Fashion,"20,000-100,000",Faridabad,Teens,Market Expansion,2.61,Football
+UniqueCompany_645,Technology,"1,000-5,000",Chennai,Young Adults,Sales Increase,2.48,Soccer
+UniqueCompany_646,Finance,"1,000-5,000",Chennai,Young Adults,Brand Awareness,4.34,Athletics
+UniqueCompany_647,Food & Beverage,"5,000-20,000",Varanasi,Adults,Market Expansion,2.9,Tennis
+UniqueCompany_648,Sports,"1,000-5,000",Delhi,Teens,Sales Increase,3.48,Basketball
+UniqueCompany_649,Healthcare,"1,000-5,000",Delhi,Young Adults,Sales Increase,4.22,Basketball
+UniqueCompany_650,Technology,"Over 100,000",Patna,Young Adults,Market Expansion,2.22,Wrestling
+UniqueCompany_651,Healthcare,"5,000-20,000",Delhi,Adults,Brand Awareness,3.29,Athletics
+UniqueCompany_652,Food & Beverage,"Over 100,000",Chennai,Young Adults,Market Expansion,2.16,Wrestling
+UniqueCompany_653,Healthcare,"1,000-5,000",Dhanbad,Seniors,Market Expansion,2.45,Athletics
+UniqueCompany_654,Healthcare,"Over 100,000",Vadodara,Young Adults,Sales Increase,1.1,F1-Racing
+UniqueCompany_655,Fashion,"20,000-100,000",Faridabad,Seniors,Sales Increase,3.19,Swimming
+UniqueCompany_656,Healthcare,"20,000-100,000",Srinagar,Adults,Brand Awareness,3.59,Wrestling
+UniqueCompany_657,Healthcare,"5,000-20,000",Nagpur,Teens,Brand Awareness,4.08,F1-Racing
+UniqueCompany_658,Fashion,"20,000-100,000",Nagpur,Teens,Sales Increase,3.64,Cricket
+UniqueCompany_659,Fashion,"1,000-5,000",Srinagar,Teens,Market Expansion,4.03,Cricket
+UniqueCompany_660,Food & Beverage,"Over 100,000",Patna,Teens,Brand Awareness,2.05,Tennis
+UniqueCompany_661,Technology,"Over 100,000",Pune,Young Adults,Sales Increase,4.3,F1-Racing
+UniqueCompany_662,Healthcare,"20,000-100,000",Faridabad,Young Adults,Market Expansion,4.68,Tennis
+UniqueCompany_663,Technology,"5,000-20,000",Kanpur,Young Adults,Brand Awareness,3.95,Swimming
+UniqueCompany_664,Fashion,"5,000-20,000",Ludhiana,Teens,Sales Increase,1.79,Soccer
+UniqueCompany_665,Healthcare,"Over 100,000",Bangalore,Teens,Sales Increase,4.81,F1-Racing
+UniqueCompany_666,Healthcare,"20,000-100,000",Nashik,Adults,Sales Increase,2.5,Basketball
+UniqueCompany_667,Healthcare,"1,000-5,000",Mumbai,Teens,Brand Awareness,1.2,Football
+UniqueCompany_668,Finance,"20,000-100,000",Nashik,Seniors,Sales Increase,2.14,Cricket
+UniqueCompany_669,Sports,"Over 100,000",Delhi,Young Adults,Market Expansion,0.58,Football
+UniqueCompany_670,Fashion,"Over 100,000",Hyderabad,Seniors,Market Expansion,3.73,Swimming
+UniqueCompany_671,Technology,"20,000-100,000",Amritsar,Teens,Brand Awareness,3.82,Basketball
+UniqueCompany_672,Finance,"20,000-100,000",Indore,Young Adults,Brand Awareness,3.74,Athletics
+UniqueCompany_673,Healthcare,"1,000-5,000",Dhanbad,Adults,Brand Awareness,3.5,Tennis
+UniqueCompany_674,Finance,"Over 100,000",Srinagar,Seniors,Market Expansion,1.11,Football
+UniqueCompany_675,Technology,"Over 100,000",Varanasi,Teens,Brand Awareness,3,Tennis
+UniqueCompany_676,Healthcare,"Over 100,000",Nagpur,Young Adults,Market Expansion,3.52,F1-Racing
+UniqueCompany_677,Fashion,"Over 100,000",Hyderabad,Teens,Brand Awareness,4.8,Soccer
+UniqueCompany_678,Food & Beverage,"20,000-100,000",Indore,Teens,Market Expansion,1.6,Wrestling
+UniqueCompany_679,Food & Beverage,"5,000-20,000",Aurangabad,Teens,Brand Awareness,0.97,Basketball
+UniqueCompany_680,Technology,"20,000-100,000",Amritsar,Seniors,Market Expansion,4.62,F1-Racing
+UniqueCompany_681,Healthcare,"Over 100,000",Ahmedabad,Adults,Market Expansion,2.52,Football
+UniqueCompany_682,Food & Beverage,"Over 100,000",Aurangabad,Seniors,Market Expansion,3.16,Cricket
+UniqueCompany_683,Food & Beverage,"5,000-20,000",Hyderabad,Young Adults,Sales Increase,4.16,Wrestling
+UniqueCompany_684,Finance,"20,000-100,000",Allahabad,Adults,Market Expansion,2.43,Athletics
+UniqueCompany_685,Technology,"Over 100,000",Visakhapatnam,Young Adults,Sales Increase,3.01,Tennis
+UniqueCompany_686,Healthcare,"5,000-20,000",Chennai,Seniors,Market Expansion,2.09,Athletics
+UniqueCompany_687,Food & Beverage,"1,000-5,000",Srinagar,Teens,Market Expansion,3.39,Soccer
+UniqueCompany_688,Food & Beverage,"Over 100,000",Hyderabad,Adults,Sales Increase,3.1,Swimming
+UniqueCompany_689,Finance,"Over 100,000",Amritsar,Young Adults,Market Expansion,1.5,Swimming
+UniqueCompany_690,Finance,"5,000-20,000",Dhanbad,Teens,Market Expansion,3.58,Athletics
+UniqueCompany_691,Technology,"1,000-5,000",Nashik,Teens,Market Expansion,2.38,Basketball
+UniqueCompany_692,Sports,"Over 100,000",Kolkata,Seniors,Market Expansion,1.61,Swimming
+UniqueCompany_693,Healthcare,"5,000-20,000",Faridabad,Seniors,Sales Increase,1.2,Swimming
+UniqueCompany_694,Technology,"20,000-100,000",Allahabad,Young Adults,Brand Awareness,4.54,Swimming
+UniqueCompany_695,Technology,"Over 100,000",Ahmedabad,Adults,Brand Awareness,4.38,Cricket
+UniqueCompany_696,Sports,"5,000-20,000",Visakhapatnam,Adults,Brand Awareness,3.64,Tennis
+UniqueCompany_697,Finance,"20,000-100,000",Visakhapatnam,Young Adults,Sales Increase,3.67,Athletics
+UniqueCompany_698,Fashion,"1,000-5,000",Hyderabad,Teens,Market Expansion,3.57,Basketball
+UniqueCompany_699,Healthcare,"1,000-5,000",Ghaziabad,Young Adults,Sales Increase,4.57,Football
+UniqueCompany_700,Healthcare,"1,000-5,000",Dhanbad,Adults,Sales Increase,4.19,Cricket
+UniqueCompany_701,Finance,"Over 100,000",Kolkata,Adults,Market Expansion,3.99,F1-Racing
+UniqueCompany_702,Healthcare,"1,000-5,000",Indore,Young Adults,Brand Awareness,0.52,F1-Racing
+UniqueCompany_703,Technology,"5,000-20,000",Dhanbad,Teens,Market Expansion,2.64,Basketball
+UniqueCompany_704,Technology,"5,000-20,000",Ludhiana,Teens,Sales Increase,4.71,Swimming
+UniqueCompany_705,Finance,"1,000-5,000",Patna,Teens,Market Expansion,4.47,Cricket
+UniqueCompany_706,Food & Beverage,"1,000-5,000",Amritsar,Teens,Brand Awareness,1.48,Football
+UniqueCompany_707,Fashion,"5,000-20,000",Mumbai,Adults,Market Expansion,3.53,F1-Racing
+UniqueCompany_708,Finance,"20,000-100,000",Agra,Young Adults,Sales Increase,0.79,Swimming
+UniqueCompany_709,Food & Beverage,"20,000-100,000",Visakhapatnam,Seniors,Market Expansion,1.18,Soccer
+UniqueCompany_710,Technology,"20,000-100,000",Nagpur,Seniors,Market Expansion,1.6,Swimming
+UniqueCompany_711,Food & Beverage,"20,000-100,000",Vadodara,Adults,Sales Increase,0.81,Swimming
+UniqueCompany_712,Food & Beverage,"Over 100,000",Vadodara,Seniors,Market Expansion,2.09,Athletics
+UniqueCompany_713,Fashion,"Over 100,000",Hyderabad,Teens,Sales Increase,2.53,Soccer
+UniqueCompany_714,Technology,"1,000-5,000",Ahmedabad,Adults,Brand Awareness,1.81,F1-Racing
+UniqueCompany_715,Technology,"20,000-100,000",Jaipur,Teens,Sales Increase,4.96,Football
+UniqueCompany_716,Finance,"20,000-100,000",Patna,Adults,Market Expansion,3.51,Swimming
+UniqueCompany_717,Healthcare,"5,000-20,000",Ludhiana,Teens,Brand Awareness,3.93,Football
+UniqueCompany_718,Finance,"1,000-5,000",Chennai,Teens,Brand Awareness,1.16,Swimming
+UniqueCompany_719,Fashion,"Over 100,000",Bhopal,Teens,Sales Increase,4.58,Basketball
+UniqueCompany_720,Sports,"5,000-20,000",Nashik,Teens,Sales Increase,0.58,Football
+UniqueCompany_721,Sports,"20,000-100,000",Pune,Teens,Market Expansion,2.65,Tennis
+UniqueCompany_722,Fashion,"20,000-100,000",Kolkata,Teens,Market Expansion,3.23,Soccer
+UniqueCompany_723,Technology,"Over 100,000",Pune,Young Adults,Sales Increase,2.75,Basketball
+UniqueCompany_724,Finance,"Over 100,000",Agra,Teens,Brand Awareness,1.79,Tennis
+UniqueCompany_725,Healthcare,"1,000-5,000",Dhanbad,Adults,Sales Increase,1.09,Athletics
+UniqueCompany_726,Sports,"1,000-5,000",Visakhapatnam,Young Adults,Market Expansion,0.73,Tennis
+UniqueCompany_727,Fashion,"1,000-5,000",Mumbai,Young Adults,Market Expansion,3.66,F1-Racing
+UniqueCompany_728,Sports,"20,000-100,000",Surat,Adults,Market Expansion,4.31,Basketball
+UniqueCompany_729,Finance,"20,000-100,000",Kolkata,Seniors,Sales Increase,0.95,Football
+UniqueCompany_730,Food & Beverage,"20,000-100,000",Delhi,Seniors,Market Expansion,3.76,Football
+UniqueCompany_731,Technology,"1,000-5,000",Kolkata,Teens,Sales Increase,2.02,Soccer
+UniqueCompany_732,Healthcare,"5,000-20,000",Lucknow,Seniors,Brand Awareness,0.59,Soccer
+UniqueCompany_733,Food & Beverage,"1,000-5,000",Chennai,Teens,Sales Increase,2.18,Tennis
+UniqueCompany_734,Finance,"20,000-100,000",Bhopal,Teens,Brand Awareness,4.74,Cricket
+UniqueCompany_735,Technology,"Over 100,000",Hyderabad,Seniors,Market Expansion,2.35,Soccer
+UniqueCompany_736,Technology,"20,000-100,000",Dhanbad,Seniors,Sales Increase,2.19,Swimming
+UniqueCompany_737,Technology,"5,000-20,000",Meerut,Young Adults,Sales Increase,1.88,Cricket
+UniqueCompany_738,Food & Beverage,"20,000-100,000",Thane,Adults,Market Expansion,1.73,Wrestling
+UniqueCompany_739,Finance,"1,000-5,000",Thane,Adults,Sales Increase,2.92,Football
+UniqueCompany_740,Sports,"1,000-5,000",Amritsar,Seniors,Market Expansion,0.58,Swimming
+UniqueCompany_741,Technology,"Over 100,000",Kanpur,Young Adults,Market Expansion,3.04,Tennis
+UniqueCompany_742,Finance,"5,000-20,000",Chennai,Seniors,Sales Increase,3.45,Cricket
+UniqueCompany_743,Sports,"5,000-20,000",Ahmedabad,Teens,Brand Awareness,2.17,Football
+UniqueCompany_744,Fashion,"Over 100,000",Kolkata,Young Adults,Brand Awareness,1.48,Swimming
+UniqueCompany_745,Food & Beverage,"1,000-5,000",Visakhapatnam,Seniors,Market Expansion,1.06,Basketball
+UniqueCompany_746,Healthcare,"20,000-100,000",Hyderabad,Adults,Sales Increase,4.45,Wrestling
+UniqueCompany_747,Fashion,"1,000-5,000",Varanasi,Seniors,Sales Increase,3.52,Basketball
+UniqueCompany_748,Food & Beverage,"Over 100,000",Visakhapatnam,Teens,Sales Increase,1.07,Football
+UniqueCompany_749,Healthcare,"1,000-5,000",Patna,Adults,Sales Increase,2.81,Tennis
+UniqueCompany_750,Food & Beverage,"1,000-5,000",Hyderabad,Seniors,Brand Awareness,3.91,Athletics
+UniqueCompany_751,Food & Beverage,"5,000-20,000",Lucknow,Teens,Brand Awareness,0.68,Swimming
+UniqueCompany_752,Technology,"1,000-5,000",Hyderabad,Young Adults,Market Expansion,3.72,Wrestling
+UniqueCompany_753,Finance,"5,000-20,000",Delhi,Seniors,Brand Awareness,1.92,Football
+UniqueCompany_754,Sports,"Over 100,000",Visakhapatnam,Seniors,Brand Awareness,3.26,Basketball
+UniqueCompany_755,Fashion,"5,000-20,000",Nashik,Seniors,Brand Awareness,2.29,Swimming
+UniqueCompany_756,Food & Beverage,"1,000-5,000",Ludhiana,Adults,Sales Increase,3.27,F1-Racing
+UniqueCompany_757,Fashion,"5,000-20,000",Lucknow,Adults,Market Expansion,1.95,F1-Racing
+UniqueCompany_758,Sports,"Over 100,000",Thane,Young Adults,Market Expansion,3.25,Wrestling
+UniqueCompany_759,Sports,"Over 100,000",Hyderabad,Young Adults,Sales Increase,0.75,Cricket
+UniqueCompany_760,Finance,"20,000-100,000",Meerut,Seniors,Brand Awareness,0.53,Swimming
+UniqueCompany_761,Healthcare,"1,000-5,000",Agra,Teens,Sales Increase,4.79,Wrestling
+UniqueCompany_762,Finance,"Over 100,000",Hyderabad,Adults,Market Expansion,4.94,Football
+UniqueCompany_763,Healthcare,"Over 100,000",Mumbai,Teens,Brand Awareness,1.12,Cricket
+UniqueCompany_764,Technology,"1,000-5,000",Ghaziabad,Young Adults,Brand Awareness,3.07,Swimming
+UniqueCompany_765,Healthcare,"5,000-20,000",Faridabad,Teens,Sales Increase,2.91,Tennis
+UniqueCompany_766,Food & Beverage,"1,000-5,000",Ghaziabad,Young Adults,Brand Awareness,2.64,Tennis
+UniqueCompany_767,Sports,"20,000-100,000",Srinagar,Young Adults,Market Expansion,1.56,Cricket
+UniqueCompany_768,Food & Beverage,"Over 100,000",Srinagar,Adults,Sales Increase,1.85,F1-Racing
+UniqueCompany_769,Fashion,"1,000-5,000",Hyderabad,Teens,Market Expansion,2.01,Athletics
+UniqueCompany_770,Fashion,"20,000-100,000",Allahabad,Seniors,Brand Awareness,0.76,Football
+UniqueCompany_771,Food & Beverage,"1,000-5,000",Jaipur,Adults,Market Expansion,0.57,Soccer
+UniqueCompany_772,Sports,"1,000-5,000",Allahabad,Adults,Sales Increase,3.68,Swimming
+UniqueCompany_773,Food & Beverage,"20,000-100,000",Thane,Young Adults,Market Expansion,4.57,Soccer
+UniqueCompany_774,Technology,"1,000-5,000",Pune,Adults,Sales Increase,2.23,Tennis
+UniqueCompany_775,Healthcare,"1,000-5,000",Amritsar,Teens,Market Expansion,3.56,Athletics
+UniqueCompany_776,Sports,"5,000-20,000",Vadodara,Adults,Market Expansion,3.9,Athletics
+UniqueCompany_777,Healthcare,"20,000-100,000",Ludhiana,Adults,Market Expansion,1.42,Soccer
+UniqueCompany_778,Finance,"Over 100,000",Lucknow,Teens,Sales Increase,1.76,Tennis
+UniqueCompany_779,Sports,"1,000-5,000",Delhi,Adults,Brand Awareness,0.96,Tennis
+UniqueCompany_780,Sports,"1,000-5,000",Nagpur,Young Adults,Market Expansion,1.89,Basketball
+UniqueCompany_781,Finance,"20,000-100,000",Jaipur,Teens,Market Expansion,4.69,Basketball
+UniqueCompany_782,Fashion,"1,000-5,000",Lucknow,Adults,Sales Increase,2.91,F1-Racing
+UniqueCompany_783,Healthcare,"20,000-100,000",Agra,Young Adults,Market Expansion,4.99,Basketball
+UniqueCompany_784,Food & Beverage,"1,000-5,000",Ludhiana,Teens,Market Expansion,3.41,Athletics
+UniqueCompany_785,Technology,"1,000-5,000",Jaipur,Seniors,Brand Awareness,4.73,Soccer
+UniqueCompany_786,Fashion,"Over 100,000",Meerut,Teens,Brand Awareness,4.91,Athletics
+UniqueCompany_787,Sports,"Over 100,000",Lucknow,Adults,Sales Increase,3.57,Basketball
+UniqueCompany_788,Healthcare,"1,000-5,000",Bhopal,Seniors,Sales Increase,2.86,F1-Racing
+UniqueCompany_789,Healthcare,"5,000-20,000",Ahmedabad,Teens,Brand Awareness,1.1,Athletics
+UniqueCompany_790,Sports,"20,000-100,000",Dhanbad,Adults,Brand Awareness,4.86,Cricket
+UniqueCompany_791,Food & Beverage,"Over 100,000",Bangalore,Seniors,Sales Increase,3.75,Basketball
+UniqueCompany_792,Fashion,"Over 100,000",Aurangabad,Adults,Market Expansion,3.01,Swimming
+UniqueCompany_793,Fashion,"Over 100,000",Ahmedabad,Adults,Market Expansion,4.48,Wrestling
+UniqueCompany_794,Healthcare,"5,000-20,000",Amritsar,Seniors,Brand Awareness,1.05,Swimming
+UniqueCompany_795,Finance,"1,000-5,000",Rajkot,Young Adults,Brand Awareness,3.33,Swimming
+UniqueCompany_796,Finance,"1,000-5,000",Amritsar,Young Adults,Brand Awareness,4.4,Wrestling
+UniqueCompany_797,Healthcare,"20,000-100,000",Kanpur,Teens,Sales Increase,4.71,Swimming
+UniqueCompany_798,Food & Beverage,"Over 100,000",Kolkata,Teens,Market Expansion,2.97,Swimming
+UniqueCompany_799,Finance,"20,000-100,000",Meerut,Seniors,Market Expansion,1.09,Soccer
+UniqueCompany_800,Food & Beverage,"20,000-100,000",Dhanbad,Young Adults,Brand Awareness,4.26,Basketball
+UniqueCompany_801,Technology,"5,000-20,000",Dhanbad,Adults,Brand Awareness,1.76,F1-Racing
+UniqueCompany_802,Healthcare,"20,000-100,000",Ghaziabad,Seniors,Brand Awareness,1.44,F1-Racing
+UniqueCompany_803,Technology,"5,000-20,000",Visakhapatnam,Young Adults,Brand Awareness,1.4,Basketball
+UniqueCompany_804,Healthcare,"1,000-5,000",Ahmedabad,Young Adults,Brand Awareness,0.54,Football
+UniqueCompany_805,Healthcare,"Over 100,000",Nagpur,Young Adults,Market Expansion,1.62,Soccer
+UniqueCompany_806,Finance,"20,000-100,000",Ludhiana,Adults,Sales Increase,0.84,Football
+UniqueCompany_807,Finance,"5,000-20,000",Aurangabad,Adults,Sales Increase,2.84,Swimming
+UniqueCompany_808,Sports,"20,000-100,000",Hyderabad,Young Adults,Sales Increase,4.1,F1-Racing
+UniqueCompany_809,Food & Beverage,"20,000-100,000",Ahmedabad,Adults,Market Expansion,1.25,Basketball
+UniqueCompany_810,Finance,"1,000-5,000",Chennai,Teens,Sales Increase,4.56,Cricket
+UniqueCompany_811,Sports,"Over 100,000",Ludhiana,Seniors,Brand Awareness,1.64,Cricket
+UniqueCompany_812,Technology,"5,000-20,000",Allahabad,Young Adults,Sales Increase,3.27,Athletics
+UniqueCompany_813,Fashion,"Over 100,000",Ahmedabad,Seniors,Sales Increase,2.64,Wrestling
+UniqueCompany_814,Healthcare,"1,000-5,000",Aurangabad,Seniors,Market Expansion,4.59,F1-Racing
+UniqueCompany_815,Healthcare,"1,000-5,000",Delhi,Teens,Brand Awareness,3.3,Tennis
+UniqueCompany_816,Fashion,"5,000-20,000",Kolkata,Adults,Sales Increase,1.42,Basketball
+UniqueCompany_817,Food & Beverage,"Over 100,000",Indore,Young Adults,Brand Awareness,0.98,Swimming
+UniqueCompany_818,Technology,"Over 100,000",Thane,Adults,Brand Awareness,4.94,Football
+UniqueCompany_819,Food & Beverage,"Over 100,000",Mumbai,Seniors,Sales Increase,1.34,Athletics
+UniqueCompany_820,Sports,"1,000-5,000",Mumbai,Teens,Market Expansion,1.21,Athletics
+UniqueCompany_821,Food & Beverage,"20,000-100,000",Bhopal,Adults,Market Expansion,3.13,Tennis
+UniqueCompany_822,Technology,"1,000-5,000",Meerut,Seniors,Market Expansion,1.13,Athletics
+UniqueCompany_823,Sports,"5,000-20,000",Bangalore,Teens,Market Expansion,2.18,Football
+UniqueCompany_824,Finance,"20,000-100,000",Ahmedabad,Young Adults,Market Expansion,2.57,Athletics
+UniqueCompany_825,Fashion,"Over 100,000",Aurangabad,Adults,Market Expansion,0.85,Basketball
+UniqueCompany_826,Sports,"Over 100,000",Thane,Young Adults,Sales Increase,4,Athletics
+UniqueCompany_827,Healthcare,"20,000-100,000",Dhanbad,Adults,Brand Awareness,2.48,Basketball
+UniqueCompany_828,Healthcare,"Over 100,000",Faridabad,Seniors,Market Expansion,3.88,Soccer
+UniqueCompany_829,Food & Beverage,"5,000-20,000",Patna,Teens,Sales Increase,1.55,Swimming
+UniqueCompany_830,Sports,"5,000-20,000",Jaipur,Teens,Market Expansion,1.34,Swimming
+UniqueCompany_831,Fashion,"Over 100,000",Kolkata,Young Adults,Market Expansion,1.89,Swimming
+UniqueCompany_832,Technology,"5,000-20,000",Mumbai,Adults,Sales Increase,3.33,Athletics
+UniqueCompany_833,Sports,"5,000-20,000",Ludhiana,Teens,Market Expansion,3.01,Basketball
+UniqueCompany_834,Food & Beverage,"20,000-100,000",Nagpur,Seniors,Brand Awareness,3.01,F1-Racing
+UniqueCompany_835,Finance,"5,000-20,000",Bhopal,Young Adults,Market Expansion,2.77,Cricket
+UniqueCompany_836,Fashion,"20,000-100,000",Meerut,Young Adults,Brand Awareness,3.47,Tennis
+UniqueCompany_837,Healthcare,"20,000-100,000",Rajkot,Young Adults,Sales Increase,1.3,Football
+UniqueCompany_838,Healthcare,"1,000-5,000",Kanpur,Teens,Sales Increase,1,F1-Racing
+UniqueCompany_839,Food & Beverage,"Over 100,000",Allahabad,Young Adults,Market Expansion,3.18,Basketball
+UniqueCompany_840,Healthcare,"5,000-20,000",Srinagar,Young Adults,Market Expansion,1.25,Tennis
+UniqueCompany_841,Food & Beverage,"20,000-100,000",Meerut,Adults,Sales Increase,2.37,Basketball
+UniqueCompany_842,Finance,"5,000-20,000",Kolkata,Adults,Brand Awareness,2.17,F1-Racing
+UniqueCompany_843,Finance,"5,000-20,000",Chennai,Teens,Brand Awareness,3.82,Wrestling
+UniqueCompany_844,Technology,"1,000-5,000",Ludhiana,Teens,Market Expansion,3.11,Soccer
+UniqueCompany_845,Finance,"20,000-100,000",Lucknow,Young Adults,Sales Increase,3.01,Basketball
+UniqueCompany_846,Sports,"1,000-5,000",Ghaziabad,Teens,Sales Increase,0.85,Athletics
+UniqueCompany_847,Technology,"5,000-20,000",Aurangabad,Seniors,Sales Increase,2.49,Soccer
+UniqueCompany_848,Technology,"1,000-5,000",Patna,Teens,Market Expansion,4.73,Cricket
+UniqueCompany_849,Technology,"Over 100,000",Indore,Teens,Sales Increase,2.97,Basketball
+UniqueCompany_850,Healthcare,"Over 100,000",Mumbai,Seniors,Brand Awareness,2.45,Wrestling
+UniqueCompany_851,Fashion,"20,000-100,000",Hyderabad,Seniors,Brand Awareness,2.21,Wrestling
+UniqueCompany_852,Technology,"1,000-5,000",Visakhapatnam,Adults,Market Expansion,3.26,Wrestling
+UniqueCompany_853,Finance,"Over 100,000",Varanasi,Young Adults,Market Expansion,2.05,Wrestling
+UniqueCompany_854,Sports,"20,000-100,000",Thane,Teens,Brand Awareness,2.76,Tennis
+UniqueCompany_855,Fashion,"5,000-20,000",Dhanbad,Teens,Market Expansion,4.81,Basketball
+UniqueCompany_856,Technology,"Over 100,000",Bangalore,Seniors,Market Expansion,1.79,Wrestling
+UniqueCompany_857,Fashion,"5,000-20,000",Indore,Teens,Sales Increase,1.34,Soccer
+UniqueCompany_858,Food & Beverage,"1,000-5,000",Amritsar,Adults,Market Expansion,0.7,Athletics
+UniqueCompany_859,Finance,"1,000-5,000",Bangalore,Young Adults,Market Expansion,2.58,Tennis
+UniqueCompany_860,Finance,"Over 100,000",Aurangabad,Seniors,Brand Awareness,1.99,Wrestling
+UniqueCompany_861,Food & Beverage,"20,000-100,000",Indore,Teens,Sales Increase,4.18,Football
+UniqueCompany_862,Healthcare,"5,000-20,000",Bhopal,Adults,Market Expansion,4.73,Wrestling
+UniqueCompany_863,Finance,"5,000-20,000",Meerut,Teens,Market Expansion,0.8,Swimming
+UniqueCompany_864,Technology,"1,000-5,000",Bangalore,Seniors,Sales Increase,2.88,Wrestling
+UniqueCompany_865,Sports,"20,000-100,000",Bangalore,Adults,Sales Increase,1.37,Wrestling
+UniqueCompany_866,Fashion,"Over 100,000",Patna,Adults,Brand Awareness,3.88,Tennis
+UniqueCompany_867,Fashion,"Over 100,000",Allahabad,Adults,Brand Awareness,2.51,Swimming
+UniqueCompany_868,Finance,"5,000-20,000",Bangalore,Adults,Brand Awareness,3.77,Wrestling
+UniqueCompany_869,Technology,"5,000-20,000",Dhanbad,Adults,Sales Increase,3.48,Athletics
+UniqueCompany_870,Healthcare,"1,000-5,000",Meerut,Young Adults,Market Expansion,2.41,Athletics
+UniqueCompany_871,Healthcare,"1,000-5,000",Srinagar,Adults,Market Expansion,3.52,Soccer
+UniqueCompany_872,Finance,"1,000-5,000",Rajkot,Seniors,Market Expansion,2.28,Swimming
+UniqueCompany_873,Healthcare,"5,000-20,000",Rajkot,Young Adults,Market Expansion,1.85,Soccer
+UniqueCompany_874,Fashion,"1,000-5,000",Mumbai,Adults,Market Expansion,2.22,Basketball
+UniqueCompany_875,Healthcare,"20,000-100,000",Visakhapatnam,Adults,Brand Awareness,2.8,Basketball
+UniqueCompany_876,Healthcare,"5,000-20,000",Bhopal,Young Adults,Brand Awareness,2.34,Wrestling
+UniqueCompany_877,Technology,"Over 100,000",Aurangabad,Teens,Brand Awareness,4.71,Football
+UniqueCompany_878,Healthcare,"Over 100,000",Ahmedabad,Adults,Sales Increase,4.5,Soccer
+UniqueCompany_879,Technology,"Over 100,000",Indore,Teens,Brand Awareness,4.3,F1-Racing
+UniqueCompany_880,Food & Beverage,"5,000-20,000",Bhopal,Teens,Sales Increase,3.7,Wrestling
+UniqueCompany_881,Finance,"5,000-20,000",Aurangabad,Seniors,Market Expansion,4.7,Swimming
+UniqueCompany_882,Fashion,"1,000-5,000",Chennai,Adults,Brand Awareness,3.49,Football
+UniqueCompany_883,Healthcare,"1,000-5,000",Meerut,Seniors,Sales Increase,2.05,Cricket
+UniqueCompany_884,Sports,"1,000-5,000",Kolkata,Adults,Sales Increase,1.43,F1-Racing
+UniqueCompany_885,Sports,"1,000-5,000",Surat,Teens,Sales Increase,3.33,Soccer
+UniqueCompany_886,Technology,"1,000-5,000",Vadodara,Adults,Market Expansion,2.07,Football
+UniqueCompany_887,Sports,"5,000-20,000",Patna,Young Adults,Brand Awareness,3.68,Athletics
+UniqueCompany_888,Food & Beverage,"1,000-5,000",Varanasi,Young Adults,Brand Awareness,2.39,Athletics
+UniqueCompany_889,Finance,"Over 100,000",Pune,Adults,Market Expansion,1.76,Swimming
+UniqueCompany_890,Fashion,"Over 100,000",Nashik,Seniors,Sales Increase,4.17,Soccer
+UniqueCompany_891,Food & Beverage,"20,000-100,000",Hyderabad,Young Adults,Brand Awareness,2.28,Cricket
+UniqueCompany_892,Healthcare,"1,000-5,000",Nashik,Adults,Market Expansion,4.51,Athletics
+UniqueCompany_893,Food & Beverage,"1,000-5,000",Nashik,Seniors,Sales Increase,2.79,Soccer
+UniqueCompany_894,Food & Beverage,"5,000-20,000",Vadodara,Adults,Market Expansion,3.38,Cricket
+UniqueCompany_895,Technology,"Over 100,000",Amritsar,Teens,Sales Increase,2.81,Wrestling
+UniqueCompany_896,Food & Beverage,"1,000-5,000",Varanasi,Seniors,Market Expansion,3.11,Wrestling
+UniqueCompany_897,Fashion,"1,000-5,000",Meerut,Seniors,Sales Increase,1.16,Tennis
+UniqueCompany_898,Healthcare,"1,000-5,000",Varanasi,Adults,Brand Awareness,0.85,F1-Racing
+UniqueCompany_899,Finance,"1,000-5,000",Hyderabad,Adults,Brand Awareness,4.74,Cricket
+UniqueCompany_900,Technology,"1,000-5,000",Indore,Young Adults,Brand Awareness,2.21,Tennis
+UniqueCompany_901,Sports,"5,000-20,000",Agra,Adults,Sales Increase,2.91,Basketball
+UniqueCompany_902,Technology,"5,000-20,000",Jaipur,Teens,Sales Increase,4.58,Wrestling
+UniqueCompany_903,Finance,"20,000-100,000",Ghaziabad,Seniors,Sales Increase,3.59,Basketball
+UniqueCompany_904,Food & Beverage,"1,000-5,000",Nashik,Adults,Market Expansion,3.42,Soccer
+UniqueCompany_905,Fashion,"1,000-5,000",Patna,Seniors,Brand Awareness,4.58,Soccer
+UniqueCompany_906,Fashion,"5,000-20,000",Bhopal,Teens,Market Expansion,0.6,Football
+UniqueCompany_907,Technology,"20,000-100,000",Meerut,Adults,Sales Increase,4.2,Tennis
+UniqueCompany_908,Fashion,"1,000-5,000",Hyderabad,Teens,Market Expansion,2.3,Athletics
+UniqueCompany_909,Sports,"Over 100,000",Rajkot,Teens,Sales Increase,1.48,Cricket
+UniqueCompany_910,Fashion,"5,000-20,000",Pune,Teens,Brand Awareness,2,Cricket
+UniqueCompany_911,Healthcare,"1,000-5,000",Ghaziabad,Adults,Brand Awareness,3.97,Cricket
+UniqueCompany_912,Fashion,"Over 100,000",Varanasi,Seniors,Brand Awareness,4.65,Football
+UniqueCompany_913,Finance,"20,000-100,000",Mumbai,Teens,Sales Increase,4.41,Basketball
+UniqueCompany_914,Fashion,"5,000-20,000",Nagpur,Young Adults,Brand Awareness,4.84,Wrestling
+UniqueCompany_915,Technology,"5,000-20,000",Nagpur,Adults,Brand Awareness,2.19,Soccer
+UniqueCompany_916,Healthcare,"1,000-5,000",Nagpur,Adults,Brand Awareness,4,Basketball
+UniqueCompany_917,Sports,"1,000-5,000",Chennai,Teens,Brand Awareness,0.76,F1-Racing
+UniqueCompany_918,Finance,"1,000-5,000",Kolkata,Young Adults,Brand Awareness,4.08,F1-Racing
+UniqueCompany_919,Food & Beverage,"5,000-20,000",Kolkata,Adults,Sales Increase,2.86,Football
+UniqueCompany_920,Finance,"Over 100,000",Aurangabad,Teens,Brand Awareness,2.88,Wrestling
+UniqueCompany_921,Fashion,"1,000-5,000",Mumbai,Teens,Market Expansion,3.01,Basketball
+UniqueCompany_922,Healthcare,"5,000-20,000",Chennai,Seniors,Market Expansion,4.9,Basketball
+UniqueCompany_923,Finance,"Over 100,000",Agra,Adults,Sales Increase,3.74,Football
+UniqueCompany_924,Food & Beverage,"1,000-5,000",Varanasi,Seniors,Brand Awareness,1.45,Cricket
+UniqueCompany_925,Sports,"20,000-100,000",Chennai,Adults,Brand Awareness,4.33,Tennis
+UniqueCompany_926,Sports,"5,000-20,000",Lucknow,Adults,Brand Awareness,1.7,Athletics
+UniqueCompany_927,Sports,"1,000-5,000",Vadodara,Teens,Brand Awareness,2.81,Basketball
+UniqueCompany_928,Finance,"1,000-5,000",Visakhapatnam,Adults,Market Expansion,4.89,F1-Racing
+UniqueCompany_929,Food & Beverage,"20,000-100,000",Ahmedabad,Adults,Market Expansion,2.04,Cricket
+UniqueCompany_930,Food & Beverage,"20,000-100,000",Surat,Teens,Brand Awareness,3.97,Swimming
+UniqueCompany_931,Sports,"5,000-20,000",Allahabad,Seniors,Sales Increase,2.23,F1-Racing
+UniqueCompany_932,Technology,"5,000-20,000",Amritsar,Adults,Market Expansion,0.87,Basketball
+UniqueCompany_933,Technology,"5,000-20,000",Ahmedabad,Teens,Market Expansion,2.05,Wrestling
+UniqueCompany_934,Healthcare,"5,000-20,000",Indore,Young Adults,Brand Awareness,3.05,Wrestling
+UniqueCompany_935,Food & Beverage,"Over 100,000",Rajkot,Young Adults,Market Expansion,4.72,Soccer
+UniqueCompany_936,Finance,"20,000-100,000",Pune,Seniors,Market Expansion,4.54,Athletics
+UniqueCompany_937,Food & Beverage,"20,000-100,000",Lucknow,Young Adults,Market Expansion,3.7,F1-Racing
+UniqueCompany_938,Sports,"1,000-5,000",Agra,Young Adults,Market Expansion,1.84,Tennis
+UniqueCompany_939,Technology,"1,000-5,000",Ahmedabad,Adults,Sales Increase,0.63,Wrestling
+UniqueCompany_940,Food & Beverage,"Over 100,000",Bhopal,Young Adults,Sales Increase,1.91,Cricket
+UniqueCompany_941,Food & Beverage,"20,000-100,000",Rajkot,Adults,Sales Increase,4.68,F1-Racing
+UniqueCompany_942,Food & Beverage,"5,000-20,000",Srinagar,Adults,Sales Increase,3.8,F1-Racing
+UniqueCompany_943,Healthcare,"1,000-5,000",Kanpur,Teens,Brand Awareness,2.11,Athletics
+UniqueCompany_944,Healthcare,"5,000-20,000",Kolkata,Teens,Sales Increase,2.47,Athletics
+UniqueCompany_945,Fashion,"Over 100,000",Kolkata,Seniors,Market Expansion,2.15,Swimming
+UniqueCompany_946,Technology,"20,000-100,000",Agra,Young Adults,Sales Increase,2.9,Cricket
+UniqueCompany_947,Healthcare,"20,000-100,000",Nashik,Young Adults,Brand Awareness,0.7,Basketball
+UniqueCompany_948,Healthcare,"1,000-5,000",Patna,Adults,Market Expansion,2.92,Wrestling
+UniqueCompany_949,Food & Beverage,"Over 100,000",Amritsar,Teens,Market Expansion,1.65,Wrestling
+UniqueCompany_950,Healthcare,"Over 100,000",Vadodara,Seniors,Sales Increase,2.96,Athletics
+UniqueCompany_951,Fashion,"1,000-5,000",Surat,Adults,Brand Awareness,0.54,Soccer
+UniqueCompany_952,Fashion,"5,000-20,000",Thane,Young Adults,Sales Increase,5,Wrestling
+UniqueCompany_953,Sports,"Over 100,000",Allahabad,Seniors,Market Expansion,4.64,Football
+UniqueCompany_954,Food & Beverage,"20,000-100,000",Agra,Adults,Brand Awareness,0.69,Soccer
+UniqueCompany_955,Finance,"5,000-20,000",Meerut,Seniors,Market Expansion,1.86,Basketball
+UniqueCompany_956,Healthcare,"1,000-5,000",Hyderabad,Seniors,Sales Increase,4.65,Wrestling
+UniqueCompany_957,Healthcare,"1,000-5,000",Lucknow,Seniors,Brand Awareness,1.2,Soccer
+UniqueCompany_958,Finance,"20,000-100,000",Mumbai,Seniors,Market Expansion,1.67,Athletics
+UniqueCompany_959,Healthcare,"1,000-5,000",Indore,Seniors,Market Expansion,1.58,Cricket
+UniqueCompany_960,Finance,"20,000-100,000",Hyderabad,Teens,Brand Awareness,2.83,Swimming
+UniqueCompany_961,Technology,"Over 100,000",Ludhiana,Seniors,Brand Awareness,1.54,Wrestling
+UniqueCompany_962,Healthcare,"5,000-20,000",Varanasi,Seniors,Sales Increase,2.82,Wrestling
+UniqueCompany_963,Food & Beverage,"1,000-5,000",Hyderabad,Young Adults,Sales Increase,1.96,Basketball
+UniqueCompany_964,Healthcare,"5,000-20,000",Vadodara,Teens,Market Expansion,4.42,Swimming
+UniqueCompany_965,Finance,"1,000-5,000",Rajkot,Seniors,Market Expansion,3.48,Cricket
+UniqueCompany_966,Sports,"1,000-5,000",Faridabad,Young Adults,Market Expansion,2.67,Swimming
+UniqueCompany_967,Fashion,"20,000-100,000",Chennai,Young Adults,Market Expansion,4.22,Wrestling
+UniqueCompany_968,Food & Beverage,"5,000-20,000",Nagpur,Young Adults,Brand Awareness,3.99,Basketball
+UniqueCompany_969,Sports,"20,000-100,000",Bhopal,Young Adults,Market Expansion,3.74,Swimming
+UniqueCompany_970,Finance,"Over 100,000",Varanasi,Seniors,Brand Awareness,4.11,Swimming
+UniqueCompany_971,Sports,"20,000-100,000",Nashik,Teens,Brand Awareness,3.63,Tennis
+UniqueCompany_972,Sports,"Over 100,000",Nashik,Teens,Brand Awareness,3.13,Cricket
+UniqueCompany_973,Finance,"1,000-5,000",Visakhapatnam,Young Adults,Market Expansion,0.72,Football
+UniqueCompany_974,Healthcare,"5,000-20,000",Mumbai,Adults,Brand Awareness,4.51,F1-Racing
+UniqueCompany_975,Sports,"20,000-100,000",Varanasi,Young Adults,Brand Awareness,1.98,Wrestling
+UniqueCompany_976,Technology,"1,000-5,000",Jaipur,Adults,Sales Increase,2.45,Tennis
+UniqueCompany_977,Sports,"Over 100,000",Bangalore,Teens,Brand Awareness,4.15,Tennis
+UniqueCompany_978,Sports,"Over 100,000",Bhopal,Teens,Market Expansion,0.72,Athletics
+UniqueCompany_979,Healthcare,"20,000-100,000",Nagpur,Young Adults,Brand Awareness,1.01,Cricket
+UniqueCompany_980,Healthcare,"Over 100,000",Pune,Teens,Brand Awareness,3.9,Football
+UniqueCompany_981,Technology,"Over 100,000",Dhanbad,Teens,Market Expansion,4.52,Swimming
+UniqueCompany_982,Healthcare,"Over 100,000",Meerut,Young Adults,Brand Awareness,1.76,Cricket
+UniqueCompany_983,Food & Beverage,"20,000-100,000",Aurangabad,Seniors,Market Expansion,2.35,Athletics
+UniqueCompany_984,Fashion,"Over 100,000",Kolkata,Teens,Market Expansion,1.11,Basketball
+UniqueCompany_985,Food & Beverage,"20,000-100,000",Allahabad,Young Adults,Sales Increase,2.44,Cricket
+UniqueCompany_986,Technology,"20,000-100,000",Allahabad,Teens,Sales Increase,4.33,F1-Racing
+UniqueCompany_987,Finance,"5,000-20,000",Aurangabad,Young Adults,Brand Awareness,1.72,Soccer
+UniqueCompany_988,Healthcare,"20,000-100,000",Hyderabad,Seniors,Market Expansion,4.74,Athletics
+UniqueCompany_989,Fashion,"1,000-5,000",Jaipur,Young Adults,Brand Awareness,4.45,Swimming
+UniqueCompany_990,Food & Beverage,"Over 100,000",Kolkata,Adults,Market Expansion,1.54,Football
+UniqueCompany_991,Fashion,"Over 100,000",Surat,Adults,Sales Increase,2.61,Cricket
+UniqueCompany_992,Finance,"20,000-100,000",Thane,Adults,Sales Increase,1.42,Swimming
+UniqueCompany_993,Healthcare,"20,000-100,000",Amritsar,Young Adults,Market Expansion,1.95,Wrestling
+UniqueCompany_994,Food & Beverage,"1,000-5,000",Lucknow,Young Adults,Brand Awareness,2.09,Soccer
+UniqueCompany_995,Technology,"5,000-20,000",Nagpur,Adults,Market Expansion,1.67,Basketball
+UniqueCompany_996,Healthcare,"20,000-100,000",Thane,Seniors,Brand Awareness,1.56,Swimming
+UniqueCompany_997,Fashion,"Over 100,000",Visakhapatnam,Adults,Brand Awareness,4.06,Tennis
+UniqueCompany_998,Technology,"1,000-5,000",Nashik,Seniors,Market Expansion,2.24,F1-Racing
+UniqueCompany_999,Food & Beverage,"Over 100,000",Surat,Young Adults,Sales Increase,3.8,F1-Racing

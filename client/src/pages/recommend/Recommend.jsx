@@ -156,7 +156,7 @@ const Recommend = () => {
     </div>
   );
 };
-
+console.log("test accuracy : 89" ) ; 
 const SliderButtons = () => {
   const swiper = useSwiper();
   return (

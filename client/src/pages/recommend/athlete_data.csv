@@ -1,0 +1,100 @@
+name,gender,age,height ,weight,education Level,trainingHistoryYears,level,sport,achievements,Location,desiredSponsorshipTypeType,socialMediaFollowers,annualIncome
+Tanvi Sen,Female,38,183,69,Bachelor,19,Professional,Basketball,Regional,Srinagar,Apparel,96990,200k-300k
+Vishal Mukherjee,Male,37,191,82,Bachelor,19,Professional,Basketball,State-Level,Patna,Coaching,65982,Above 700k
+Anmol Mishra,Male,39,188,78,Master,21,Professional,Tennis,Regional,Dhanbad,Nutrition,1675,200k-300k
+Tanvi Khanna,Female,36,156,49,Bachelor,19,Professional,Wrestling,International,Delhi,Coaching,65325,600k-700k
+Yogesh Reddy,Male,26,186,71,Bachelor,6,Semi-Pro,Tennis,State-Level,Amritsar,Financial,14469,300k-400k
+Deepika Juneja,Female,22,159,54,Master,6,Semi-Pro,Cricket,Regional,Ludhiana,Nutrition,34292,600k-700k
+Chirag Pillai,Male,28,177,69,High School,10,Professional,Athletics,Regional,Kolkata,Coaching,69125,Above 700k
+Varun Krishna,Male,20,190,77,PhD,3,Semi-Pro,Swimming,Regional,Ahmedabad,Financial,13370,300k-400k
+Deepak Shah,Male,35,157,53,Bachelor,18,Professional,Tennis,International,Rajkot,Equipment,49041,600k-700k
+Mamta Saha,Female,21,164,57,Bachelor,5,Semi-Pro,F1-Racing,International,Nagpur,Nutrition,88475,Above 700k
+Harsh Patel,Male,32,179,58,Bachelor,15,Professional,Soccer,National,Patna,Equipment,85240,100k-200k
+Priya Seth,Female,24,160,58,Bachelor,8,Professional,Soccer,State-Level,Amritsar,Apparel,27237,200k-300k
+Wahid Pathak,Male,28,186,68,Bachelor,9,Professional,Cricket,Regional,Ahmedabad,Nutrition,7883,100k-200k
+Vivaan Reddy,Male,33,192,74,High School,14,Professional,Basketball,International,Mumbai,Equipment,36685,200k-300k
+Nitin Gupta,Male,33,158,46,Bachelor,17,Professional,Tennis,International,Thane,Nutrition,98738,600k-700k
+Chandni Kapoor,Female,26,179,62,PhD,10,Professional,Cricket,State-Level,Amritsar,Apparel,9767,100k-200k
+Yuvan Dey,Male,21,176,64,Bachelor,4,Semi-Pro,Swimming,International,Bhopal,Coaching,46637,Above 700k
+Naveen Desai,Male,25,159,58,PhD,5,Semi-Pro,Wrestling,State-Level,Pune,Apparel,89158,Above 700k
+Aaradhya Juneja,Female,25,166,50,Bachelor,5,Semi-Pro,Athletics,International,Nagpur,Equipment,62224,400k-500k
+Yamini Bhatia,Female,19,176,63,High School,3,Semi-Pro,Football,Regional,Ghaziabad,Apparel,36607,Above 700k
+Anvi Mehta,Female,22,180,59,High School,4,Semi-Pro,Basketball,National,Meerut,Financial,31941,Above 700k
+Lokesh Bahl,Male,34,157,56,PhD,16,Professional,Football,Regional,Pune,Nutrition,15845,Above 700k
+Wahid Krishna,Male,36,187,66,Bachelor,20,Professional,Wrestling,International,Kolkata,Apparel,92850,200k-300k
+Harsha Nair,Female,26,164,56,Bachelor,8,Professional,Wrestling,Regional,Jaipur,Coaching,28633,200k-300k
+Pallavi Pillai,Female,33,168,60,Bachelor,14,Professional,F1-Racing,State-Level,Ahmedabad,Financial,20818,600k-700k
+Dhruv Bhatia,Male,38,181,68,Bachelor,21,Professional,Athletics,National,Vadodara,Nutrition,29360,300k-400k
+Chhaya Reddy,Female,27,155,55,PhD,10,Professional,Swimming,National,Dhanbad,Nutrition,30787,300k-400k
+Omkar Nair,Male,31,188,68,Bachelor,15,Professional,Football,International,Patna,Coaching,53286,200k-300k
+Diya Srinivasan,Female,35,172,54,Bachelor,17,Professional,Wrestling,Regional,Visakhapatnam,Equipment,853,600k-700k
+Dev Bhatia,Male,30,207,89,Bachelor,12,Professional,Basketball,International,Meerut,Financial,96492,600k-700k
+Aarav Malik,Male,26,170,55,Bachelor,7,Professional,Wrestling,International,Lucknow,Nutrition,79720,600k-700k
+Riya Vohra,Female,22,173,65,PhD,6,Semi-Pro,Soccer,National,Visakhapatnam,Nutrition,46856,400k-500k
+Bhavin Srinivasan,Male,39,201,73,Bachelor,23,Professional,Basketball,National,Dhanbad,Apparel,90826,200k-300k
+Pallavi Basu,Female,32,176,60,Bachelor,12,Professional,Athletics,International,Meerut,Apparel,85372,Above 700k
+Rachna Nigam,Female,27,156,50,High School,10,Professional,Tennis,International,Srinagar,Nutrition,10757,200k-300k
+Siddharth Singhal,Male,32,155,55,High School,14,Professional,F1-Racing,Regional,Bhopal,Coaching,60893,400k-500k
+Prem Venkatesan,Male,33,208,79,Bachelor,13,Professional,Basketball,State-Level,Allahabad,Equipment,14288,100k-200k
+Vihaan Ahmed,Male,30,191,67,Bachelor,10,Professional,Basketball,State-Level,Allahabad,Equipment,95580,600k-700k
+Amit Pawar,Male,23,159,52,Bachelor,3,Semi-Pro,Swimming,State-Level,Visakhapatnam,Apparel,92254,100k-200k
+Pranav Chatterjee,Male,24,175,72,Bachelor,8,Professional,Wrestling,Regional,Bhopal,Equipment,31125,100k-200k
+Ojas Naidu,Male,19,165,54,Bachelor,3,Semi-Pro,F1-Racing,Regional,Ghaziabad,Equipment,45877,Above 700k
+Jyoti Chauhan,Female,23,155,49,Bachelor,7,Professional,Soccer,Regional,Bhopal,Financial,15014,Above 700k
+Lalita Purohit,Female,23,178,65,High School,6,Semi-Pro,F1-Racing,International,Pune,Equipment,12975,Above 700k
+Esha Ahmed,Female,36,178,61,Bachelor,18,Professional,Wrestling,International,Dhanbad,Financial,72520,100k-200k
+Deepak Bhatia,Male,30,206,77,High School,14,Professional,Basketball,Regional,Ghaziabad,Apparel,5657,100k-200k
+Ritvik Seth,Male,18,206,81,High School,1,Amateur,Basketball,National,Delhi,Coaching,19479,Above 700k
+Yash Khurana,Male,34,200,81,Bachelor,17,Professional,Basketball,Regional,Surat,Coaching,20992,400k-500k
+Bhavna Purohit,Female,37,178,63,Bachelor,19,Professional,Wrestling,National,Varanasi,Apparel,72317,Above 700k
+Ela Bahl,Female,38,156,56,Master,18,Professional,Wrestling,International,Ahmedabad,Financial,34877,Above 700k
+Yash Reddy,Male,26,189,70,Bachelor,7,Professional,Football,State-Level,Ghaziabad,Equipment,37089,400k-500k
+Harsh Kulkarni,Male,33,176,60,Bachelor,17,Professional,Soccer,Regional,Rajkot,Nutrition,46217,300k-400k
+Ojas Rana,Male,23,157,56,Bachelor,4,Semi-Pro,Tennis,International,Nashik,Financial,50374,300k-400k
+Tanvi Chatterjee,Female,36,171,56,Bachelor,16,Professional,Soccer,Regional,Bangalore,Equipment,56884,200k-300k
+Yash Gandhi,Male,19,204,89,Bachelor,2,Amateur,Basketball,International,Kanpur,Apparel,39474,600k-700k
+Rishi Banerjee,Male,32,162,59,Bachelor,15,Professional,Wrestling,National,Mumbai,Equipment,96843,100k-200k
+Prateek Chopra,Male,30,166,60,Bachelor,12,Professional,Football,National,Meerut,Coaching,92596,200k-300k
+Kunal Pawar,Male,35,173,70,Bachelor,16,Professional,Soccer,National,Hyderabad,Coaching,63769,200k-300k
+Aditya Mehta,Male,23,180,60,High School,7,Professional,Wrestling,State-Level,Dhanbad,Nutrition,71284,100k-200k
+Dev Menon,Male,33,162,52,Bachelor,17,Professional,Soccer,National,Rajkot,Financial,43246,100k-200k
+Hiral Choudhury,Female,33,165,50,Bachelor,15,Professional,Wrestling,International,Mumbai,Financial,68000,200k-300k
+Neha Anand,Female,23,173,56,Bachelor,3,Semi-Pro,Swimming,International,Faridabad,Apparel,74492,200k-300k
+Samarth Desai,Male,36,180,61,Master,17,Professional,Swimming,State-Level,Pune,Nutrition,45479,600k-700k
+Xavier Banerjee,Male,31,203,79,High School,15,Professional,Basketball,State-Level,Vadodara,Financial,79448,600k-700k
+Angad Srinivasan,Male,38,205,83,Bachelor,19,Professional,Basketball,International,Ludhiana,Nutrition,26753,100k-200k
+Mohit Nair,Male,22,159,55,Bachelor,2,Amateur,Tennis,Regional,Thane,Nutrition,10393,Above 700k
+Qasim Pawar,Male,27,196,73,PhD,8,Professional,Basketball,International,Chennai,Nutrition,3656,100k-200k
+Siya Chopra,Female,37,170,55,Bachelor,17,Professional,Tennis,National,Bangalore,Coaching,34855,200k-300k
+Sakshi Mehra,Female,26,177,61,Master,8,Professional,Cricket,National,Allahabad,Equipment,56378,Above 700k
+Tushar Khanna,Male,31,175,70,Bachelor,14,Professional,Swimming,National,Allahabad,Equipment,27633,600k-700k
+Ranveer Venkatesan,Male,21,181,74,High School,2,Amateur,Soccer,International,Jaipur,Financial,93090,Above 700k
+Tejas Mathur,Male,23,157,53,Master,6,Semi-Pro,Athletics,State-Level,Vadodara,Financial,12981,300k-400k
+Veer Iyer,Male,24,170,54,Bachelor,6,Semi-Pro,Wrestling,Regional,Rajkot,Nutrition,98367,300k-400k
+Laksh Gupta,Male,20,158,56,PhD,1,Amateur,Swimming,National,Visakhapatnam,Financial,21814,100k-200k
+Bhavin Naidu,Male,25,170,54,Bachelor,6,Semi-Pro,Soccer,State-Level,Vadodara,Apparel,41934,100k-200k
+Riya Bhattacharya,Female,18,156,57,Bachelor,2,Amateur,Tennis,International,Pune,Apparel,97880,200k-300k
+Ganesh Dalal,Male,30,164,56,Bachelor,11,Professional,Tennis,State-Level,Amritsar,Equipment,18706,100k-200k
+Anvi Sikka,Female,39,165,55,Bachelor,21,Professional,Athletics,National,Hyderabad,Nutrition,97182,300k-400k
+Nikhil Mahajan,Male,31,171,68,PhD,14,Professional,Wrestling,International,Aurangabad,Coaching,87640,Above 700k
+Tejas Khan,Male,18,165,63,Bachelor,2,Amateur,Soccer,Regional,Ludhiana,Equipment,91201,600k-700k
+Surya Naidu,Male,26,201,74,Bachelor,6,Semi-Pro,Basketball,National,Thane,Equipment,65484,400k-500k
+Nikhil Bhargava,Male,24,203,85,Master,5,Semi-Pro,Basketball,Regional,Lucknow,Apparel,57749,200k-300k
+Uday Pandey,Male,25,195,85,Bachelor,9,Professional,Basketball,Regional,Visakhapatnam,Nutrition,6682,100k-200k
+Hiral Rao,Female,34,155,45,Bachelor,18,Professional,Wrestling,National,Visakhapatnam,Financial,38260,300k-400k
+Krish Seth,Male,35,156,50,High School,18,Professional,Soccer,State-Level,Allahabad,Financial,31373,100k-200k
+Kabir Agarwal,Male,26,180,68,Bachelor,9,Professional,F1-Racing,National,Delhi,Apparel,62178,100k-200k
+Chhaya Mahajan,Female,32,175,67,Bachelor,16,Professional,Tennis,National,Visakhapatnam,Apparel,32778,100k-200k
+Bhumi Ghosh,Female,34,178,59,PhD,18,Professional,Football,International,Bhopal,Financial,95450,200k-300k
+Meera Mathur,Female,39,179,64,Bachelor,21,Professional,F1-Racing,State-Level,Srinagar,Nutrition,49540,400k-500k
+Amit Joshi,Male,20,200,75,Bachelor,1,Amateur,Basketball,Regional,Jaipur,Nutrition,59950,600k-700k
+Arnav Pandey,Male,38,180,76,Bachelor,20,Professional,Tennis,State-Level,Mumbai,Financial,60886,300k-400k
+Ishaan Krishna,Male,24,156,49,High School,4,Semi-Pro,Wrestling,International,Surat,Coaching,82968,100k-200k
+Lokesh Nigam,Male,29,182,63,Master,10,Professional,Tennis,Regional,Kanpur,Apparel,49133,200k-300k
+Arnav Choudhury,Male,31,157,58,Bachelor,12,Professional,Athletics,State-Level,Dhanbad,Financial,54661,100k-200k
+Kriti Dey,Female,36,160,57,Bachelor,20,Professional,F1-Racing,International,Kolkata,Coaching,82466,400k-500k
+Dhruv Mohanty,Male,27,202,87,Bachelor,8,Professional,Basketball,State-Level,Lucknow,Coaching,90488,300k-400k
+Yash Nigam,Male,30,175,58,Bachelor,14,Professional,Football,Regional,Kanpur,Financial,96270,200k-300k
+Zaheer Ahmed,Male,22,207,99,Bachelor,6,Semi-Pro,Basketball,State-Level,Delhi,Apparel,92406,600k-700k
+Vinita Kumar,Female,27,169,66,Bachelor,7,Professional,Swimming,Regional,Bangalore,Financial,96735,200k-300k
+Disha Chauhan,Female,28,161,51,Bachelor,12,Professional,Tennis,International,Agra,Financial,34182,400k-500k
