@@ -1,0 +1,63 @@
+.news-container {
+    background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,1));
+    min-height: 100vh;
+    padding: 2rem; /* Adjust padding as needed */
+  }
+  
+  .overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,1));
+    padding: 1rem;
+    color: white;
+  }
+  .news-container {
+    padding: 20px;
+  }
+  
+  .news-container .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-right: 25px;
+  }
+  
+  .news-container .card {
+    width: calc(28% - 20px); /* 25% width with margin between cards */
+    margin-bottom: 25px;
+    margin-right: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
+  
+  .news-container .card img {
+    width: 100%;
+    height: auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  
+  .news-container .card-content {
+    padding: 15px;
+    background-color: white;
+  }
+  
+  .news-container .card-content h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .news-container .card-content p {
+    font-size: 14px;
+    color: #333;
+    margin-bottom: 8px;
+  }
+  
+  .news-container .card-content p:last-child {
+    margin-bottom: 0;
+  }
+  

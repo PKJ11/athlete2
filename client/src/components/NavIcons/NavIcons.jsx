@@ -1,5 +1,5 @@
 import React from "react";
-import { FaHome, FaStar, FaComment, FaUser } from 'react-icons/fa'; // Import icons from react-icons
+import { FaHome, FaStar, FaComment, FaUser,FaNewspaper  } from 'react-icons/fa'; // Import icons from react-icons
 import { AiOutlineSetting } from 'react-icons/ai'; // Import the AiOutlineSetting icon
 import { Link } from "react-router-dom";
 import LogoSearch from "../LogoSearch/LogoSearch";
@@ -8,7 +8,6 @@ import { useDispatch, useSelector } from "react-redux";
 
 const NavIcons = () => {
   const { user } = useSelector((state) => state.authReducer.authData);
-  // console.log(user);
 
   return (
     <div className="navIcons">
@@ -21,14 +20,16 @@ const NavIcons = () => {
           <span className="iconName">Home</span>
         </div>
         <div className="iconContainer">
-          <AiOutlineSetting className="icon black" /> 
-          <span className="iconName">Settings</span>
+          <Link to="/currentNews"> {/* Updated link to currentNews */}
+            <FaNewspaper className="icon black" /> {/* Replaced with FaNewspaper for news */}
+          </Link>
+          <span className="iconName">News</span> {/* Updated icon name */}
         </div>
         <div className="iconContainer">
-          <Link to={`../recommend/${user._id}`}> {/* Updated link to recommendation page */}
-            <FaStar className="icon black" /> {/* Replaced with FaStar for recommendation */}
+          <Link to={`../recommend/${user._id}`}>
+            <FaStar className="icon black" />
           </Link>
-          <span className="iconName">Recommendation</span> {/* Updated icon name */}
+          <span className="iconName">Recommendation</span>
         </div>
         <div className="iconContainer">
           <Link to="../chat">
