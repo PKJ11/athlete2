@@ -3,9 +3,9 @@ import PostSide from "../../components/PostSide/PostSide";
 import ProfileCard from "../../components/ProfileCard/ProfileCard";
 import ProfileLeft from "../../components/ProfileLeft/ProfileLeft";
 import RightSide from "../../components/RightSide/RightSide";
-import "./Profile.css";
+
 import NavIcons from "../../components/NavIcons/NavIcons";
-const Profile = () => {
+const SponsorProfile = () => {
   return (
     <div>
       <div className="Profile" style={{ padding: "1rem 1rem " }}>
@@ -20,4 +20,4 @@ const Profile = () => {
   );
 };
 
-export default Profile;
+export default SponsorProfile;
