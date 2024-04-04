@@ -10,6 +10,7 @@ import DashboardAthlete from "./pages/DashBoard/DashBoardAthlete";
 import NavIcons from "./components/NavIcons/NavIcons";
 import SetRole from "./pages/SetRole/SetRole";
 import Recommend from "./pages/recommend/Recommend";
+import SponsorProfile from "./pages/Sponsor/SponsorProfile";
 
 function App() {
   const user = useSelector((state) => state.authReducer.authData);
@@ -48,6 +49,10 @@ function App() {
         <Route
           path="/profile/:id"
           element={user ? <Profile /> : <Navigate to="../auth" />}
+        />
+        <Route
+          path="/sponsorProfile/:id"
+          element={user ? <SponsorProfile /> : <Navigate to="../auth" />}
         />
         <Route
           path="/sponsorDashboard"

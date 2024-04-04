@@ -1,20 +1,12 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-import { useParams } from "react-router-dom";
-// Import Swiper React components
-import { Swiper, SwiperSlide, useSwiper } from "swiper/react";
-
-// Import Swiper styles
+import { useParams, Link } from "react-router-dom"; // Import Link
+import { Swiper, SwiperSlide } from "swiper/react";
+import { Autoplay, Pagination, Navigation } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
-
-// import "./styles.css";
-
-// import required modules
-import { Autoplay, Pagination, Navigation } from "swiper/modules";
-
-import Card from "../../components/Card/Card"; // Import the Card component
+import Card from "../../components/Card/Card";
 import "./style.css";
 
 const Recommend = () => {
@@ -24,7 +16,6 @@ const Recommend = () => {
   const [currentUserAthleteData, setCurrentUserAthleteData] = useState(null);
   const [loading, setLoading] = useState(true);
   const { id } = useParams();
-  const swiper = useSwiper();
 
   useEffect(() => {
     const fetchSponsorsData = async () => {
@@ -61,11 +52,9 @@ const Recommend = () => {
   useEffect(() => {
     if (currentUserAthleteData && sponsorData) {
       const recommendedSponsors = sponsorData.filter((sponsor) => {
-        // Filter sponsors based on athlete's age, preferred sport, and achievements
         const athleteAge = currentUserAthleteData.age;
         const athleteSport = currentUserAthleteData.sport;
 
-        // Determine target audience based on athlete's age
         let targetAudienceIncludesAge;
         if (athleteAge < 18) {
           targetAudienceIncludesAge = sponsor["Target Audience"]
@@ -81,17 +70,14 @@ const Recommend = () => {
             .includes("adults");
         }
 
-        // Example criteria: Sponsor's preferred sport matches athlete's sport
         const preferredSportMatches =
           sponsor["Preferred Sport"].toLowerCase() ===
           athleteSport.toLowerCase();
 
-        // Example criteria: Sponsor's marketing goals align with athlete's achievements
         const marketingGoalsMatchAchievements = sponsor["Marketing Goals"]
           .toLowerCase()
           .includes("brand awareness");
 
-        // Return true if all criteria are met
         return (
           targetAudienceIncludesAge &&
           preferredSportMatches &&
@@ -104,7 +90,7 @@ const Recommend = () => {
   }, [currentUserAthleteData, sponsorData]);
 
   return (
-    <div className="recommadationContainer ">
+    <div className="recommadationContainer">
       {loading ? (
         <p>Loading...</p>
       ) : (
@@ -139,40 +125,24 @@ const Recommend = () => {
                 spaceBetween: 20,
               },
             }}
-            
             navigation={false}
             modules={[Autoplay, Pagination, Navigation]}
           >
             {currentUserSponsorData &&
               currentUserSponsorData.map((sponsor) => (
+              
                 <SwiperSlide key={sponsor.id}>
-                  <Card sponsor={sponsor} />
+                  <Link
+                    to={`/sponsorProfile/${sponsor._id}`}
+                    style={{ textDecoration: "none" }} // Inline style to remove text decoration
+                  >
+                    <Card sponsor={sponsor} />
+                  </Link>
                 </SwiperSlide>
               ))}
           </Swiper>
-         
         </div>
       )}
-    </div>
-  );
-};
-console.log("test accuracy : 89" ) ; 
-const SliderButtons = () => {
-  const swiper = useSwiper();
-  return (
-    <div className="s-buttons flexCenter">
-      <button
-        className="button swiper-button-prev"
-        onClick={() => swiper.slidePrev()}
-      >
-        &lt;
-      </button>
-      <button
-        className="button swiper-button-next"
-        onClick={() => swiper.slideNext()}
-      >
-        &gt;
-      </button>
     </div>
   );
 };
