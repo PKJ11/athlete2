@@ -71,10 +71,11 @@ def get_evaluation_metrics(y_true, y_pred):
     precision = precision_score(y_true, y_pred, average='weighted', zero_division=1)  # Handle division by zero
     # Recall
     recall = recall_score(y_true, y_pred, average='weighted', zero_division=1)  # Handle division by zero
-    return conf_matrix, accuracy, f1+0.3, precision, recall+.27
+    return conf_matrix, accuracy, f1, precision, recall
 
 
 if __name__ == '__main__':
+    
     # Get confusion matrix, accuracy, F1 score, precision, and recall
     conf_matrix, accuracy, f1, precision, recall = get_evaluation_metrics(y_test, y_pred)
     print("Confusion Matrix:")
