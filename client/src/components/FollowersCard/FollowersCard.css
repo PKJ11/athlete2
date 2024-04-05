@@ -59,3 +59,31 @@
     align-self: center;
     cursor: pointer;
 }
+
+.FollowersCard {
+    /* Your existing styles */
+    position: relative; /* Add relative positioning */
+  }
+  
+  /* Style for the search input */
+  .FollowersCard input[type="text"] {
+    padding: 8px 32px; /* Adjust padding as needed */
+    border: 1px solid #ccc; /* Border color */
+    border-radius: 20px; /* Border radius */
+    outline: none; /* Remove outline */
+  }
+  
+  /* Style for the search icon */
+  .FollowersCard .search-icon {
+    position: absolute;
+    top: 50%;
+    left: 10px; /* Adjust left position as needed */
+    transform: translateY(-50%);
+    color: blue; /* Set icon color to blue */
+  }
+  
+  /* Style for the search icon itself */
+  .FollowersCard .search-icon i {
+    font-size: 18px; /* Adjust icon size as needed */
+  }
+  

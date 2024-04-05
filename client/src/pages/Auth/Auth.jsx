@@ -1,10 +1,11 @@
 import React, { useState } from "react";
 import "./Auth.css";
 import Logo from "../../img/ac.jpeg";
-import BackgroundImage from "../../img/background1.webp";
+import BackgroundImage from "../../img/logiBackground.jpg";
 import { logIn, signUp } from "../../actions/AuthActions.js";
 import { useDispatch, useSelector } from "react-redux";
-import { useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom"
+
 
 const Auth = () => {
   const initialState = {

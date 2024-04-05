@@ -18,7 +18,8 @@ const Post = ({ data }) => {
   const [userData, setUserData] = useState(null); // State to hold user data
   const navigate = useNavigate();
   const publicFolder = process.env.REACT_APP_PUBLIC_FOLDER;
-
+  console.log("user in chat",user)
+  console.log("data in chat",data)
   useEffect(() => {
     const fetchUserData = async () => {
       try {
