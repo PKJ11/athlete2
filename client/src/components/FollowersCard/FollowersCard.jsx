@@ -7,7 +7,7 @@ import { useSelector } from "react-redux";
 import { useNavigate } from "react-router-dom"; // Import useNavigate hook
 import { FaSearch } from "react-icons/fa"; // Import search icon
 
-const FollowersCard = ({ location }) => {
+const FollowersCard = () => {
   const [modalOpened, setModalOpened] = useState(false);
   const [persons, setPersons] = useState([]);
   const [searchTerm, setSearchTerm] = useState(""); // State for search term
@@ -61,11 +61,9 @@ const FollowersCard = ({ location }) => {
         }
         return null;
       })}
-      {!location ? (
+      {(
         <span onClick={() => setModalOpened(true)}>Show more</span>
-      ) : (
-        ""
-      )}
+      ) }
 
       <FollowersModal
         modalOpened={modalOpened}

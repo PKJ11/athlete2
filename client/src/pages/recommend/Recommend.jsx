@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-import { useParams, Link } from "react-router-dom"; // Import Link
+import { useParams, Link } from "react-router-dom";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, Pagination, Navigation } from "swiper/modules";
 import "swiper/css";
@@ -84,10 +84,30 @@ const Recommend = () => {
           marketingGoalsMatchAchievements
         );
       });
-      setCurrentUserSponsorData(recommendedSponsors);
+
+      // Shuffle the recommended sponsors array
+      const shuffledSponsors = shuffleArray(recommendedSponsors);
+
+      // Take only the top 5 sponsors from the shuffled array
+      const top5Sponsors = shuffledSponsors.slice(0, 5);
+
+      setCurrentUserSponsorData(top5Sponsors);
       setLoading(false);
     }
   }, [currentUserAthleteData, sponsorData]);
+
+  // Function to shuffle an array
+  const shuffleArray = (array) => {
+    const shuffledArray = [...array];
+    for (let i = shuffledArray.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [shuffledArray[i], shuffledArray[j]] = [
+        shuffledArray[j],
+        shuffledArray[i],
+      ];
+    }
+    return shuffledArray;
+  };
 
   return (
     <div className="recommadationContainer">
@@ -130,11 +150,10 @@ const Recommend = () => {
           >
             {currentUserSponsorData &&
               currentUserSponsorData.map((sponsor) => (
-              
                 <SwiperSlide key={sponsor.id}>
                   <Link
                     to={`/sponsorProfile/${sponsor._id}`}
-                    style={{ textDecoration: "none" }} // Inline style to remove text decoration
+                    style={{ textDecoration: "none" }}
                   >
                     <Card sponsor={sponsor} />
                   </Link>

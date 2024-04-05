@@ -56,9 +56,9 @@ def generate_recommendations():
     new_athlete_encoded = pd.get_dummies(new_athlete_df)
     new_athlete_selected = feature_selector.transform(new_athlete_encoded)
     potential_sponsors = rf_model.predict(new_athlete_selected)
+    print("potential_sponsors")
     return jsonify({"potential_sponsors": potential_sponsors.tolist()})
 
-# Function to calculate and return confusion matrix, accuracy, F1 score, precision, and recall
 # Function to calculate and return confusion matrix, accuracy, F1 score, precision, and recall
 def get_evaluation_metrics(y_true, y_pred):
     # Confusion Matrix
