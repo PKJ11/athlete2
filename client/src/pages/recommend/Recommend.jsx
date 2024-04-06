@@ -2,12 +2,18 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import { useParams, Link } from "react-router-dom";
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Autoplay, Pagination, Navigation } from "swiper/modules";
+import {
+  Autoplay,
+  Pagination,
+  Navigation,
+  EffectCoverflow,
+} from "swiper/modules";
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
 import Card from "../../components/Card/Card";
 import "./style.css";
+import { FaArrowLeft, FaArrowRight } from "react-icons/fa";
 
 const Recommend = () => {
   const [sponsorData, setSponsorData] = useState(null);
@@ -55,7 +61,12 @@ const Recommend = () => {
         const athleteAge = currentUserAthleteData.age;
         const athleteSport = currentUserAthleteData.sport;
 
-        if (!sponsor || !sponsor["Target Audience"] || !sponsor["Preferred Sport"] || !sponsor["Marketing Goals"]) {
+        if (
+          !sponsor ||
+          !sponsor["Target Audience"] ||
+          !sponsor["Preferred Sport"] ||
+          !sponsor["Marketing Goals"]
+        ) {
           return false; // Skip this sponsor if any required property is null
         }
 
@@ -114,43 +125,35 @@ const Recommend = () => {
   };
 
   return (
-    <div className="recommadationContainer">
+    <div className="container" style={{ background: "rgb(0, 31, 63)" }}>
       {loading ? (
         <p>Loading...</p>
       ) : (
         <div>
-          <h2 className="headerRecomadation">
+          <h2 className="heading" style={{ color: "white" }}>
             Recommended Sponsors for{" "}
             {currentUserAthleteData && currentUserAthleteData.name}
           </h2>
           <Swiper
-            spaceBetween={30}
+            effect={"coverflow"}
+            grabCursor={true}
+            centeredSlides={true}
             loop={true}
-            centeredSlides={false}
-            autoplay={{
-              delay: 1000,
-              disableOnInteraction: false,
+            slidesPerView={"auto"}
+            coverflowEffect={{
+              rotate: 0,
+              stretch: 0,
+              depth: 100,
+              modifier: 2.5,
             }}
-            breakpoints={{
-              250: {
-                slidesPerView: 1,
-                spaceBetween: 20,
-              },
-              750: {
-                slidesPerView: 2,
-                spaceBetween: 20,
-              },
-              1050: {
-                slidesPerView: 3,
-                spaceBetween: 20,
-              },
-              1399: {
-                slidesPerView: 4,
-                spaceBetween: 20,
-              },
+            pagination={{ el: ".swiper-pagination", clickable: true }}
+            navigation={{
+              nextEl: ".swiper-button-next",
+              prevEl: ".swiper-button-prev",
+              clickable: true,
             }}
-            navigation={false}
-            modules={[Autoplay, Pagination, Navigation]}
+            modules={[EffectCoverflow, Pagination, Navigation]}
+            className="swiper_container"
           >
             {currentUserSponsorData &&
               currentUserSponsorData.map((sponsor) => (
@@ -163,6 +166,15 @@ const Recommend = () => {
                   </Link>
                 </SwiperSlide>
               ))}
+            <div className="slider-controler">
+              <div className="swiper-button-prev slider-arrow">
+                <FaArrowLeft />
+              </div>
+              <div className="swiper-button-next slider-arrow">
+                <FaArrowRight />
+              </div>
+              <div className="swiper-pagination"></div>
+            </div>
           </Swiper>
         </div>
       )}
