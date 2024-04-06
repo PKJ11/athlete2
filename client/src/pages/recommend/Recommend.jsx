@@ -55,6 +55,10 @@ const Recommend = () => {
         const athleteAge = currentUserAthleteData.age;
         const athleteSport = currentUserAthleteData.sport;
 
+        if (!sponsor || !sponsor["Target Audience"] || !sponsor["Preferred Sport"] || !sponsor["Marketing Goals"]) {
+          return false; // Skip this sponsor if any required property is null
+        }
+
         let targetAudienceIncludesAge;
         if (athleteAge < 18) {
           targetAudienceIncludesAge = sponsor["Target Audience"]
