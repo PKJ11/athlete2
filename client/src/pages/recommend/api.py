@@ -1,5 +1,7 @@
 from flask import Flask, request, jsonify
 import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.feature_selection import SelectFromModel
@@ -15,17 +17,17 @@ athlete_data = pd.read_csv("athlete_data.csv")
 sponsor_data = pd.read_csv("sponsor_data.csv")
 
 # Merge athlete and sponsor data based on sport
-merged_data = pd.merge(athlete_data, sponsor_data, on='sport')
-
+merged_data = pd.merge(athlete_data, sponsor_data, on=['sport'])
+merged_data_sample= pd.read_csv("eecombined.csv")
 # Feature Engineering
 # You may add additional feature engineering steps here if needed
 
 # Sample a subset of the merged data
-merged_data_sampled = merged_data.sample(frac=0.1, random_state=42)
 
+merged_data_sampled = merged_data_sample.dropna()
 # Split the data into features (X) and target variable (y)
-X = merged_data_sampled.drop('Company Name', axis=1)  # Features
-y = merged_data_sampled['Company Name']  # Target variable
+X = merged_data_sampled[['Age','Height (cm)','Weight (kg)']]  # Features
+y = merged_data_sampled['is_match']  # Target variable
 
 # Encode categorical variables
 X = pd.get_dummies(X)
@@ -44,7 +46,7 @@ y_pred = rf_model.predict(X_test)
 
 # Calculate accuracy
 accuracy = accuracy_score(y_test, y_pred)
-print("Test Accuracy:", accuracy*100+44)
+print("Test Accuracy:", accuracy)
 
 # Initialize feature selector
 feature_selector = SelectFromModel(rf_model)
@@ -56,9 +58,9 @@ def generate_recommendations():
     new_athlete_encoded = pd.get_dummies(new_athlete_df)
     new_athlete_selected = feature_selector.transform(new_athlete_encoded)
     potential_sponsors = rf_model.predict(new_athlete_selected)
-    print("potential_sponsors")
     return jsonify({"potential_sponsors": potential_sponsors.tolist()})
 
+# Function to calculate and return confusion matrix, accuracy, F1 score, precision, and recall
 # Function to calculate and return confusion matrix, accuracy, F1 score, precision, and recall
 def get_evaluation_metrics(y_true, y_pred):
     # Confusion Matrix
@@ -71,10 +73,10 @@ def get_evaluation_metrics(y_true, y_pred):
     precision = precision_score(y_true, y_pred, average='weighted', zero_division=1)  # Handle division by zero
     # Recall
     recall = recall_score(y_true, y_pred, average='weighted', zero_division=1)  # Handle division by zero
-    return conf_matrix, accuracy, f1+0.3, precision, recall+.27
+    return conf_matrix, accuracy, f1, precision, recall
 
 
-if __name__ == '__main__':
+if __name__ == '_main_':
     # Get confusion matrix, accuracy, F1 score, precision, and recall
     conf_matrix, accuracy, f1, precision, recall = get_evaluation_metrics(y_test, y_pred)
     print("Confusion Matrix:")
@@ -83,3 +85,9 @@ if __name__ == '__main__':
     print("Precision:", precision)
     print("Recall:", recall)
     app.run(debug=True)
+    plt.figure(figsize=(8, 6))
+    sns.heatmap(conf_matrix, annot=True, cmap='Blues', fmt='g')
+    plt.xlabel('Predicted')
+    plt.ylabel('True')
+    plt.title('Confusion Matrix')
+    plt.show()

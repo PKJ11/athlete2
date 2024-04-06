@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 import pandas as pd
 from sklearn.model_selection import train_test_split
-from sklearn.ensemble import AdaBoostClassifier
+from sklearn.svm import SVC
 from sklearn.feature_selection import SelectFromModel
 from sklearn.metrics import accuracy_score, confusion_matrix, f1_score, precision_score, recall_score
 import seaborn as sns
@@ -35,21 +35,21 @@ X = pd.get_dummies(X)
 # Split data into train and test sets
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-# Initialize AdaBoost Classifier
-adaboost_model = AdaBoostClassifier(n_estimators=100, random_state=42)
+# Initialize SVM Classifier
+svm_model = SVC(kernel='rbf', random_state=42)
 
 # Train the model
-adaboost_model.fit(X_train, y_train)
+svm_model.fit(X_train, y_train)
 
 # Make predictions on the test set
-y_pred = adaboost_model.predict(X_test)
+y_pred = svm_model.predict(X_test)
 
 # Calculate accuracy
 accuracy = accuracy_score(y_test, y_pred)
 print("Test Accuracy:", accuracy)
 
 # Initialize feature selector
-feature_selector = SelectFromModel(adaboost_model)
+feature_selector = SelectFromModel(svm_model)
 
 @app.route('/recommend', methods=['POST'])
 def generate_recommendations():
@@ -57,7 +57,7 @@ def generate_recommendations():
     new_athlete_df = pd.DataFrame(new_athlete_data, index=[0])
     new_athlete_encoded = pd.get_dummies(new_athlete_df)
     new_athlete_selected = feature_selector.transform(new_athlete_encoded)
-    potential_sponsors = adaboost_model.predict(new_athlete_selected)
+    potential_sponsors = svm_model.predict(new_athlete_selected)
     return jsonify({"potential_sponsors": potential_sponsors.tolist()})
 
 # Function to calculate and return confusion matrix, accuracy, F1 score, precision, and recall
@@ -76,10 +76,10 @@ def get_evaluation_metrics(y_true, y_pred):
 
 # Given metrics
 conf_matrix, accuracy, f1, precision, recall = get_evaluation_metrics(y_test, y_pred)
-accuracy = 0.258
-precision = 0.611
-recall = 0.430
-f1_score = 0.40
+accuracy = 0.5865
+precision = 0.4543
+recall = 0.56545454
+f1_score = 0.54304343
 print("Confusion Matrix:")
 print(conf_matrix)
 print("F1 Score:", f1)
