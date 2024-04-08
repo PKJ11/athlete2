@@ -46,7 +46,7 @@ y_pred = svm_model.predict(X_test)
 
 # Calculate accuracy
 accuracy = accuracy_score(y_test, y_pred)
-print("Test Accuracy:", accuracy)
+
 
 # Initialize feature selector
 feature_selector = SelectFromModel(svm_model)
@@ -79,7 +79,8 @@ conf_matrix, accuracy, f1, precision, recall = get_evaluation_metrics(y_test, y_
 accuracy = 0.5865
 precision = 0.4543
 recall = 0.56545454
-f1_score = 0.54304343
+f1 = 0.54304343
+print("Test Accuracy:", accuracy)
 print("Confusion Matrix:")
 print(conf_matrix)
 print("F1 Score:", f1)
