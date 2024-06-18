@@ -94,9 +94,10 @@ const Recommend = () => {
           .includes("brand awareness");
 
         return (
-          targetAudienceIncludesAge ||
-          preferredSportMatches ||
-          marketingGoalsMatchAchievements
+          
+          preferredSportMatches &&
+          (targetAudienceIncludesAge ||
+          marketingGoalsMatchAchievements)
         );
       });
 
